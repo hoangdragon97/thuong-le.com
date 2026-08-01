@@ -1,0 +1,884 @@
+{
+  "counts": {
+    "youtube": 55,
+    "metadata": 57,
+    "custom": 13
+  },
+  "items": [
+    {
+      "category": "vietnam",
+      "index": 1,
+      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "url": "https://www.bbc.com/news/articles/cdx7zzywz7wo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 2,
+      "title": "Starbucks Vietnam: Why the US chain cannot crack a coffee-loving nation",
+      "url": "https://www.bbc.com/news/world-asia-66167222",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 3,
+      "title": "Made in Vietnam: Why its homegrown fashion is having a moment",
+      "url": "https://www.bbc.com/audio/play/w3ct73wq",
+      "mode": "custom"
+    },
+    {
+      "category": "vietnam",
+      "index": 4,
+      "title": "Vietnam's Communist Party congress meets to pick new leaders",
+      "url": "https://www.bbc.com/news/articles/c93v9e0xdd9o",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 5,
+      "title": "'The Bomb Lady' Duong Nguyet Anh: From Vietnamese Boat Refugee to Pentagon 'Queen'",
+      "url": "https://www.bbc.com/audio/play/p0mchyp5",
+      "mode": "custom"
+    },
+    {
+      "category": "vietnam",
+      "index": 6,
+      "title": "Legendary Emcee Nguyen Ngoc Ngan on Why He'll Never Return to Vietnam",
+      "url": "https://youtu.be/nRCLq5N9aP4?si=73_KkrEZsyE2cKYD",
+      "mode": "custom"
+    },
+    {
+      "category": "vietnam",
+      "index": 7,
+      "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
+      "url": "https://www.bbc.com/news/articles/ckgwkmn1rzxo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 8,
+      "title": "Vietnam's famous Train Street in Hanoi to be shut",
+      "url": "https://www.bbc.co.uk/programmes/p0d0t74q",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 9,
+      "title": "Flappy Bird and beyond: Vietnam's gaming industry",
+      "url": "https://www.bbc.com/audio/play/p0gjx831",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 10,
+      "title": "Can Vietnam's VinFast Succeed in Thailand?",
+      "url": "https://www.bbc.com/vietnamese/articles/cld40nyq7n6o",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 11,
+      "title": "Vietnam's Ministry of Defence vs Ministry of Public Security: Who Holds More Political Power?",
+      "url": "https://www.youtube.com/watch?v=5oS5FHpLs04&t=29s",
+      "mode": "youtube"
+    },
+    {
+      "category": "vietnam",
+      "index": 12,
+      "title": "Is Vietnam Shifting to NATO Weapons to Reduce Its Dependence on Russia?",
+      "url": "https://www.bbc.com/vietnamese/articles/c2xx7j38z0xo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 13,
+      "title": "Why Are More Vietnamese Women Choosing Not to Marry or Have Children?",
+      "url": "https://www.bbc.com/vietnamese/articles/cql3zg9gq1qo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 14,
+      "title": "Vietnam’s gaming industry takes off 10 years after Flappy Bird",
+      "url": "https://www.bbc.com/vietnamese/articles/c2e891pp0v6o",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 15,
+      "title": "How Powerful Is Vietnam in the Asia-Pacific?",
+      "url": "https://www.bbc.com/vietnamese/articles/c1jd205n7plo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 16,
+      "title": "Will Trump's Tariffs Threaten Vietnam's 8% Growth Target?",
+      "url": "https://www.bbc.com/vietnamese/articles/cgkgxj6l31yo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 17,
+      "title": "Can Vietnam's Bamboo Diplomacy Survive the US–China Trade War?",
+      "url": "https://www.bbc.com/vietnamese/articles/cd7v2gy5veqo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 18,
+      "title": "What Happened at Từ Dũ Hospital on 30 April 1975? Dr Ngọc Phượng Remembers",
+      "url": "https://www.bbc.com/vietnamese/articles/c5ygznn6dnzo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 19,
+      "title": "Could Hanoi Buy the F-16? Why Is This Vietnam War-Era Fighter Still in Demand?",
+      "url": "https://www.bbc.com/vietnamese/articles/c8d1mr6yrnpo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 20,
+      "title": "Vietnam Becomes a BRICS Partner: Do the Opportunities Outweigh the Risks?",
+      "url": "https://www.bbc.com/vietnamese/articles/cx2gp555p49o",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 21,
+      "title": "The K-pop Phenomenon: Why Blackpink and BTS Dominate Among Young Vietnamese",
+      "url": "https://www.bbc.com/vietnamese/articles/cg6r3z5lvgro",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 22,
+      "title": "Vietnam's US Trade Challenge: Can To Lam Deliver?",
+      "url": "https://www.bbc.com/vietnamese/articles/cgrzg4qx7jyo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 23,
+      "title": "What Was To Lam's Role in Trump's Tariff Agreement with Vietnam?",
+      "url": "https://www.bbc.com/vietnamese/articles/cwyre7rx4rro",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 24,
+      "title": "How the Trump–To Lam Deal Could Affect China's Role in Southeast Asia",
+      "url": "https://www.bbc.com/vietnamese/articles/cvgex9wxzd5o",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 25,
+      "title": "Vietnam's Potential F-16 Purchase: Escaping Russia or Leveraging Tariff Negotiations with the US?",
+      "url": "https://www.bbc.com/vietnamese/articles/cg712vngmggo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 26,
+      "title": "What Vietnam's Homegrown Weapons Reveal About Its Defence Ambitions",
+      "url": "https://www.bbc.com/vietnamese/articles/ce35326k6v5o",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 27,
+      "title": "Antelope Reef: Is China Building the Largest Artificial Island in the South China Sea to Separate Vietnam from the Paracel Islands?",
+      "url": "https://www.bbc.com/vietnamese/articles/c9d31zdzdwwo",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 28,
+      "title": "Vietnam and Taiwan: What Are the Stakes of Its 'One China' Position?",
+      "url": "https://www.bbc.com/vietnamese/articles/c5y9y7qvlv9o",
+      "mode": "metadata"
+    },
+    {
+      "category": "vietnam",
+      "index": 29,
+      "title": "Vietnam's Island-Building Push: What Does It Mean for the South China Sea?",
+      "url": "https://www.bbc.com/vietnamese/articles/c3ezly85w42o",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 1,
+      "title": "Grab what you can while you can: The new reality in the South China Sea",
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 2,
+      "title": "South East Asia scrambles for oil in wake of Iran war - Asia Specific podcast, BBC World Service",
+      "url": "https://youtu.be/grGcBaLSoQE?si=2K4Tt-6ZggmsKLon&t=228",
+      "mode": "custom"
+    },
+    {
+      "category": "world",
+      "index": 3,
+      "title": "Year of the Fire Horse welcomed by millions from Beijing to Bangkok",
+      "url": "https://www.bbc.com/news/live/cgqg0pwkq2kt",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 4,
+      "title": "Cyanide found in blood of Bangkok hotel victims",
+      "url": "https://www.bbc.com/news/articles/c3g64ljwp2go",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 5,
+      "title": "How Asia is adapting to less oil from the Middle East",
+      "url": "https://youtu.be/CpDx8K_7AwU?si=62gWzQVgMzty8DEh&t=442",
+      "mode": "custom"
+    },
+    {
+      "category": "world",
+      "index": 6,
+      "title": "The AI ghosts haunting TikTok",
+      "url": "https://www.bbc.com/audio/play/w3ct5d93",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 7,
+      "title": "Thailand takes racing to a whole new level - buffaloes included",
+      "url": "https://youtu.be/noIj59-43Ow?si=wfUF2xFykT2_FeG5&t=914",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 8,
+      "title": "An Overnight Train Journey from Bangkok to Vientiane",
+      "url": "https://www.bbc.com/audio/play/p0kb431m",
+      "mode": "custom"
+    },
+    {
+      "category": "world",
+      "index": 9,
+      "title": "Meet the Walk for Peace Monks and Aloka, the Peace Dog",
+      "url": "https://youtu.be/u3faE8oiog0?si=AdTP0v9brFYftn2M&t=541",
+      "mode": "custom"
+    },
+    {
+      "category": "world",
+      "index": 10,
+      "title": "Why Thai Drivers Rarely Honk Their Horns?",
+      "url": "https://www.facebook.com/watch/?v=2097766057225609",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 11,
+      "title": "Why Is China More Aggressive Towards the Philippines Than Vietnam Over Island-Building?",
+      "url": "https://www.bbc.com/vietnamese/articles/c3ejekl78l4o",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 12,
+      "title": "South China Sea: Is the Philippines' ‘decisive’ strategy or Vietnam's ‘cautious’ approach more effective?",
+      "url": "https://www.bbc.com/vietnamese/articles/cpqzjv34lzvo",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 13,
+      "title": "Vietnam vs Thailand: Which Economy Could Become Asia's Next Tiger?",
+      "url": "https://www.bbc.com/vietnamese/articles/c30mj5edvndo",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 14,
+      "title": "What Do China and Cambodia's Expanding Military Drills Mean for Vietnam?",
+      "url": "https://www.bbc.com/vietnamese/articles/c1w3e21273xo",
+      "mode": "metadata"
+    },
+    {
+      "category": "world",
+      "index": 15,
+      "title": "Why Was Prime Minister Paetongtarn Shinawatra Removed from Office?",
+      "url": "https://www.youtube.com/watch?v=9fbTJLfhtHw",
+      "mode": "youtube"
+    },
+    {
+      "category": "world",
+      "index": 16,
+      "title": "After the Trump–To Lam Deal: How Might China Respond in Southeast Asia?",
+      "url": "https://www.bbc.com/vietnamese/articles/cvgex9wxzd5o",
+      "mode": "metadata"
+    },
+    {
+      "category": "on-camera",
+      "index": 1,
+      "title": "South East Asia scrambles for oil in wake of Iran war - Asia Specific podcast, BBC World Service",
+      "url": "https://youtu.be/grGcBaLSoQE?si=2K4Tt-6ZggmsKLon&t=228",
+      "mode": "custom"
+    },
+    {
+      "category": "on-camera",
+      "index": 2,
+      "title": "How Asia is adapting to less oil from the Middle East",
+      "url": "https://youtu.be/CpDx8K_7AwU?si=62gWzQVgMzty8DEh&t=442",
+      "mode": "custom"
+    },
+    {
+      "category": "on-camera",
+      "index": 3,
+      "title": "Can Vietnam build its own fashion identity?",
+      "url": "https://www.instagram.com/reel/DKe50wCIDZy/",
+      "mode": "metadata"
+    },
+    {
+      "category": "on-camera",
+      "index": 4,
+      "title": "How the United States became a country",
+      "url": "https://youtu.be/amEEa_Hbdq0?si=fl4xdkegU83V_O20&t=127",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 5,
+      "title": "Why Taiwan is caught between China and the US",
+      "url": "https://www.youtube.com/watch?v=mYTvUwJiFvU&t=1s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 6,
+      "title": "How do you say 'Happy New Year'",
+      "url": "https://www.bbc.com/news/live/cgqg0pwkq2kt",
+      "mode": "metadata"
+    },
+    {
+      "category": "on-camera",
+      "index": 7,
+      "title": "Live: Donald Trump inaugurated as the 47th US President",
+      "url": "https://www.youtube.com/watch?v=31y1jMMdG2E&t=109s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 8,
+      "title": "Live: Six Vietnamese-origin individuals found dead at a Bangkok hotel",
+      "url": "https://www.youtube.com/watch?v=ggGyJSyn33Q",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 9,
+      "title": "Donald Trump's return: What can Vietnam expect?",
+      "url": "https://www.youtube.com/watch?v=Rm025MRqy6E&t=346s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 10,
+      "title": "A look back at the key issues and events that defined Vietnam in 2024",
+      "url": "https://www.youtube.com/watch?v=I8-k3uuB8Po",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 11,
+      "title": "Putin's visit to Vietnam: What you need to know",
+      "url": "https://www.youtube.com/watch?v=WvJtYn7bcHE&t=1s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 12,
+      "title": "Can Vietnam's VinFast Succeed in Thailand?",
+      "url": "https://www.youtube.com/watch?v=V3NEq1j1GUM&t=7s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 13,
+      "title": "Electric car whistleblower sacked by Jaguar Land Rover",
+      "url": "https://www.youtube.com/watch?v=vXFax4lRW8w",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 14,
+      "title": "Why Chế Linh Is at the Centre of the Đoạn Buồn Đêm Mưa Dispute?",
+      "url": "https://www.youtube.com/watch?v=PGY6DMRmAW4&t=20s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 15,
+      "title": "Is Putin more powerful than ever?",
+      "url": "https://www.youtube.com/watch?v=L-diqyAV0e4&t=516s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 16,
+      "title": "Vietnam's Ministry of Defence vs Ministry of Public Security: Who Holds More Political Power?",
+      "url": "https://www.youtube.com/watch?v=5oS5FHpLs04&t=29s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 17,
+      "title": "Is Vietnam Shifting to NATO Weapons to Reduce Its Dependence on Russia?",
+      "url": "https://www.youtube.com/watch?v=tRF5UAE4xFU&t=214s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 18,
+      "title": "Why Does the Middle East Matter So Much to the US?",
+      "url": "https://www.youtube.com/watch?v=KdEHkWgQ2cI&t=210s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 19,
+      "title": "What Would a Trump Victory Mean for Ukraine, Israel, Taiwan and the World?",
+      "url": "https://www.youtube.com/watch?v=T00VT_n67Sc&t=333s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 20,
+      "title": "How communist is China really?",
+      "url": "https://www.youtube.com/watch?v=5UqkANw7gro&t=59s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 21,
+      "title": "Why Is China More Aggressive Towards the Philippines Than Vietnam Over Island-Building?",
+      "url": "https://www.youtube.com/watch?v=uDi4muXo1Ac&t=18s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 22,
+      "title": "South China Sea: Is the Philippines' ‘decisive’ strategy or Vietnam's ‘cautious’ approach more effective?",
+      "url": "https://www.youtube.com/watch?v=rLsIoxPOeoY&t=142s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 23,
+      "title": "Which countries are supplying weapons to Russia?",
+      "url": "https://www.youtube.com/watch?v=_rtnTdiIcO0&t=14s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 24,
+      "title": "How Powerful Is Vietnam in the Asia-Pacific?",
+      "url": "https://www.youtube.com/watch?v=3dAMqGVYmO8&t=10s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 25,
+      "title": "Pennsylvania: The Key State in the 2024 US Presidential Election",
+      "url": "https://www.youtube.com/watch?v=IRKR1Y1O80E&t=2s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 26,
+      "title": "Why Did Americans Give Trump a Second Chance?",
+      "url": "https://www.youtube.com/watch?v=bqjfYNqiQ58&t=230s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 27,
+      "title": "Did Ukraine Make a Mistake by Giving Up Its Nuclear Arsenal?",
+      "url": "https://www.youtube.com/watch?v=aKQ6RaA3Raw&t=36s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 28,
+      "title": "When Is Trump's Inauguration? Where to Watch It Live",
+      "url": "https://www.youtube.com/watch?v=DyDxkB8Pb-4&t=1s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 29,
+      "title": "Who Is in Trump's New Cabinet?",
+      "url": "https://www.youtube.com/watch?v=u1Vt7-ce15U",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 30,
+      "title": "Vietnam's Defence Industry: How Self-Reliant Is It and Can It Export?",
+      "url": "https://www.youtube.com/watch?v=rj_qM4NQQVM",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 31,
+      "title": "Can Vietnam Reduce Its Dependence on Russian Weapons?",
+      "url": "https://www.youtube.com/watch?v=HErom7jYeLI",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 32,
+      "title": "Vietnam vs Thailand: Which Economy Could Become Asia's Next Tiger?",
+      "url": "https://www.youtube.com/watch?v=K3cC0Eoq62g&t=55s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 33,
+      "title": "Will Trump's Tariffs Threaten Vietnam's 8% Growth Target?",
+      "url": "https://www.youtube.com/watch?v=j2uInRjUU-s&t=428s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 34,
+      "title": "Can Vietnam's Bamboo Diplomacy Survive the US–China Trade War?",
+      "url": "https://www.youtube.com/watch?v=fwYEfnBPOv0&t=3s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 35,
+      "title": "China and Cambodia Hold Their Largest-Ever Military Exercise: What Does It Mean for Vietnam?",
+      "url": "https://www.youtube.com/watch?v=BmiCg1O7YPc&t=1s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 36,
+      "title": "Could Hanoi Buy the F-16? Why Is This Vietnam War-Era Fighter Still in Demand?",
+      "url": "https://www.youtube.com/watch?v=_yPXmTAtEwM&t=436s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 37,
+      "title": "Vietnam's Potential F-16 Purchase: Escaping Russia or Leveraging Tariff Negotiations with the US?",
+      "url": "https://www.youtube.com/watch?v=PQ9sTOUK_MU",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 38,
+      "title": "Could Reports That Vietnam Will Buy 24 F-16 Fighter Jets Anger China and Russia?",
+      "url": "https://www.youtube.com/watch?v=nfn5C3w25is",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 39,
+      "title": "Israel vs. Iran: A Comparison of Military Strength",
+      "url": "https://www.youtube.com/watch?v=Rhg01fFs7mE&t=125s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 40,
+      "title": "How Close Is Iran to Developing Nuclear Weapons?",
+      "url": "https://www.youtube.com/watch?v=RkuCrS2l_Ok&t=2s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 41,
+      "title": "The Korean War: Why Has It Never Officially Ended?",
+      "url": "https://www.youtube.com/watch?v=mOK7zhEzutQ&t=2s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 42,
+      "title": "What Does BRICS Partner Status Mean for Vietnam?",
+      "url": "https://www.youtube.com/watch?v=iQ4T_iGlx5k",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 43,
+      "title": "Trump–Vietnam Tariff Deal: Was It a Success for To Lam?",
+      "url": "https://www.youtube.com/watch?v=D4ffC91MCX0&t=2s",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 44,
+      "title": "Explainer: Trump's 'Madman Theory' and Its Global Impact",
+      "url": "https://www.youtube.com/watch?v=OkHuWxEfxXQ",
+      "mode": "youtube"
+    },
+    {
+      "category": "on-camera",
+      "index": 45,
+      "title": "How love and heartbreak rewire the brain",
+      "url": "https://www.youtube.com/watch?v=HFdNgzpPUuk&t=1s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 1,
+      "title": "The Fifth Floor: Vietnam's matchmakers",
+      "url": "https://www.bbc.co.uk/programmes/p0jfzd3l",
+      "mode": "metadata"
+    },
+    {
+      "category": "documentaries",
+      "index": 2,
+      "title": "Vietnamese Brides Matchmaking in Singapore: A dream or a disillusion?",
+      "url": "https://www.youtube.com/watch?v=CagYKdP3j4M",
+      "mode": "custom"
+    },
+    {
+      "category": "documentaries",
+      "index": 3,
+      "title": "KURROCK: Meet the Vietnamese rock band based in Japan",
+      "url": "https://www.youtube.com/watch?v=AY5cHoMzXE8",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 4,
+      "title": "Turning Hoian banhmi into a business in Japan",
+      "url": "https://www.facebook.com/BBCnewsVietnamese/videos/1384634279048016/?vh=e&fs=e&mibextid=wwXIfr&rdid=UgwEs2THWoVHc5qD#",
+      "mode": "metadata"
+    },
+    {
+      "category": "documentaries",
+      "index": 5,
+      "title": "Meet a 61-year-old Vietnamese woman driving a tuk-tuk in Thailand",
+      "url": "https://www.youtube.com/watch?v=h812GincHzc",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 6,
+      "title": "We never forget our roots: Vietnamese community marks Lunar New Year in Thailand",
+      "url": "https://www.youtube.com/watch?v=dhFnnabm9As&t=356s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 7,
+      "title": "South China Sea: Is the Philippines' ‘decisive’ strategy or Vietnam's ‘cautious’ approach more effective?",
+      "url": "https://www.youtube.com/watch?v=rLsIoxPOeoY&t=2s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 8,
+      "title": "How could buying US-made F-16 fighter jets transform Vietnam's Air Force?",
+      "url": "https://www.youtube.com/watch?v=9sWoGxkXEm4&t=421s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 9,
+      "title": "A Conversation with Nguyễn Trần Duy Nhất: The Future of Vietnamese Muay Thai",
+      "url": "https://www.youtube.com/watch?v=Bw91M8rGitU&t=3s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 10,
+      "title": "Runner-up Tường San: 'I'll Pay Back My Debt as Soon as I Return to Vietnam'",
+      "url": "https://www.youtube.com/watch?v=ZTDhWkk4WAE&t=8s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 11,
+      "title": "What It Took to Become the Grandma in How to Make Millions Before Grandma Dies",
+      "url": "https://www.youtube.com/watch?v=f8l_yl9jwz4&t=67s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 12,
+      "title": "Japanese bride Megumi: ‘I'm too afraid to try durian, but I love the way Vietnamese people greet each other’",
+      "url": "https://www.youtube.com/watch?v=nhc7BEIXnLc&t=5s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 13,
+      "title": "Ho Chi Minh in Thailand: The Story Behind Two Memorial Houses at the Same Site",
+      "url": "https://www.youtube.com/watch?v=fKoh-5b5qfc",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 14,
+      "title": "Why Chế Linh Is at the Centre of the Đoạn Buồn Đêm Mưa Dispute",
+      "url": "https://www.youtube.com/watch?v=PGY6DMRmAW4&t=20s",
+      "mode": "youtube"
+    },
+    {
+      "category": "documentaries",
+      "index": 15,
+      "title": "What Happened at Từ Dũ Hospital on 30 April 1975? Dr Ngọc Phượng Remembers",
+      "url": "https://www.youtube.com/watch?v=DnEghmvz7SA&t=281s",
+      "mode": "youtube"
+    },
+    {
+      "category": "languages",
+      "index": 1,
+      "title": "Korean: 중국의 '매력 공세'는 동남아를 재편하게 될까",
+      "url": "https://www.bbc.com/korean/articles/c24qmvv6pvyo",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 2,
+      "title": "Thai: “เจ้าสาวเวียดนาม” ความเฟื่องฟูของธุรกิจ “จัดหารัก” ให้ชายสิงคโปร์ผู้ไร้คู่",
+      "url": "https://www.bbc.com/thai/articles/cv29w73knxno",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 3,
+      "title": "Indonesian: Kopi Starbucks sulit laku di Vietnam dibanding di Indonesia, mengapa?",
+      "url": "https://www.bbc.com/indonesia/majalah-66404421",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 4,
+      "title": "Mundo: Toma lo que quieras mientras puedas: la feroz disputa por la soberanía en el mar de China Meridional",
+      "url": "https://www.bbc.com/mundo/articles/cgmdgrk0n8xo",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 5,
+      "title": "Korean: 베트남이 4000억원 규모의 한국 K9 자주포를 수입하려는 이유",
+      "url": "https://www.bbc.com/korean/articles/crm74wdvdwzo",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 6,
+      "title": "Burmese: တောင်တရုတ်ပင်လယ်ထဲ သဲဖို့ ကျွန်းဖော်ပြီး ပိုင်နက်ဦးနေကြလား",
+      "url": "https://www.bbc.com/burmese/articles/cy52546w79qo",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 7,
+      "title": "Chinese: 越南南沙建島低調超車中國 南海造島競賽風雲再起？",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj20vkd9m3o/trad",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 8,
+      "title": "Indonesian: Akankah 'serangan pesona' China mengubah peta Asia Tenggara dan bagaimana posisi Indonesia?",
+      "url": "https://www.bbc.com/indonesia/articles/c9dj8g7541lo",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 9,
+      "title": "Thai: เหตุใดตอนนี้ทางการเวียดนาม จึงเดินหน้าปราบตลาดสินค้าแบรนด์เนมปลอม",
+      "url": "https://www.bbc.com/thai/articles/c5yzzpl3ee2o",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 10,
+      "title": "Thai: 'คว้าไว้เท่าที่ทำได้ในตอนนี้' จีนเป็นชาติเดียวหรือไม่ที่ถมทะเลสร้างเกาะเทียมในทะเลจีนใต้",
+      "url": "https://www.bbc.com/thai/articles/cevprl7pw3ro",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 11,
+      "title": "Thai: \"ปฏิบัติการสร้างเสน่ห์\" ของจีนจะเปลี่ยนโฉมหน้าภูมิภาคเอเชียตะวันออกเฉียงใต้ได้หรือไม่ ?",
+      "url": "https://www.bbc.com/thai/articles/cy0xjwlzr47o",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 12,
+      "title": "Korean: '짝퉁 명품' 글로벌 거점...베트남 당국, 단속 강화한다",
+      "url": "https://www.bbc.com/korean/articles/c4gyyzrd6n1o",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 13,
+      "title": "Korean: '청산가리로 6명 독살', 방콕 호텔 투숙객 사망사건 미스테리",
+      "url": "https://www.bbc.com/korean/articles/c1dm78v2pkro",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 14,
+      "title": "Burmese: တရုတ်ရဲ့ \"ဆွဲဆောင်စည်းရုံးမှု ထိုးစစ်\"က အရှေ့တောင်အာရှကို အသွင်ပြောင်းလာနိုင်လား",
+      "url": "https://www.bbc.com/burmese/articles/cly5q9z46ygo",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 15,
+      "title": "Chinese: 美國壓力下 越南如何擺脫「假冒奢侈品全球樞紐」標籤",
+      "url": "https://www.bbc.com/zhongwen/articles/c2lyyxyeqr8o/trad",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 16,
+      "title": "Chinese: 先下手為強：南海島礁爭奪的新現實",
+      "url": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 17,
+      "title": "Chinese: 南海爭端再起：菲律賓簽新法案與中國劃新基線，特朗普會繼續支持菲律賓嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvg5kv0p4xlo/trad",
+      "mode": "metadata"
+    },
+    {
+      "category": "languages",
+      "index": 18,
+      "title": "Telugu: Meet the Walk for Peace Monks and Aloka, the Peace Dog",
+      "url": "https://youtu.be/u3faE8oiog0?si=AdTP0v9brFYftn2M&t=541",
+      "mode": "custom"
+    },
+    {
+      "category": "languages",
+      "index": 19,
+      "title": "Marathi: हा भारतीय कुत्रा सध्या जगभरात का प्रसिद्ध झालाय?",
+      "url": "https://www.instagram.com/reel/DZoizs2iOQ4/?igsh=MXE5cDh0aWM5ZDFhdw%3D%3D",
+      "mode": "custom"
+    },
+    {
+      "category": "languages",
+      "index": 20,
+      "title": "Hindi: Meet the Walk for Peace Monks and Aloka, the Peace Dog",
+      "url": "https://www.youtube.com/live/RdAOsowxRFk?si=SzbmKYhYj4S4DWyb&t=970",
+      "mode": "custom"
+    }
+  ]
+}
