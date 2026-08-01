@@ -1235,3 +1235,139 @@ body[data-category="about"] .editorial-gallery.about-gallery-grid img {
     object-position: center top;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Final responsive refinements
+   - keep the About me card label identical to the other homepage cards
+   - use the cleaned documentary cover without the BBC News lock-up
+   - preserve natural thumbnail proportions on phones
+   -------------------------------------------------------------------------- */
+
+/* The documentary source image is now physically cropped above the lower-third,
+   so it no longer needs to be oversized with CSS. */
+.home-portfolio-grid .card-docs img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 42%;
+}
+
+.home-portfolio-grid .card-docs:hover img {
+  transform: scale(1.045);
+}
+
+/* Use the same cleaned asset and a controlled focal point in the
+   Documentaries subpage masthead. */
+body[data-category="documentaries"] .category-masthead > img {
+  object-position: center 38%;
+}
+
+@media (max-width: 720px) {
+  /* Subpage covers scale with the viewport instead of relying on a fixed
+     desktop-like height. */
+  body[data-category]:not([data-category="about"]) .category-masthead {
+    width: 100%;
+    min-height: 0;
+    aspect-ratio: 4 / 5;
+    margin-top: 28px;
+    margin-bottom: 34px;
+  }
+
+  body[data-category]:not([data-category="about"]) .category-masthead > img {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+  }
+
+  body[data-category="documentaries"] .category-masthead > img {
+    object-position: center 42%;
+  }
+
+  /* Article thumbnails keep their real proportions on small screens. This
+     avoids stretching or aggressively cropping portrait and non-16:9 images. */
+  .category-work-list .work-image,
+  .category-work-list .work-card.is-featured .work-image {
+    width: 100%;
+    min-height: 0;
+    aspect-ratio: auto;
+    overflow: hidden;
+  }
+
+  .category-work-list .work-image img {
+    position: relative;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: none;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  .category-work-list .work-card:hover .work-image img {
+    transform: none;
+  }
+
+  /* About images also stay within the viewport and retain their proportions. */
+  body[data-category="about"] .about-profile-image,
+  body[data-category="about"] .about-gallery-section,
+  body[data-category="about"] .editorial-gallery.about-gallery-grid,
+  body[data-category="about"] .editorial-gallery.about-gallery-grid figure {
+    max-width: 100%;
+  }
+
+  body[data-category="about"] .editorial-gallery.about-gallery-grid img {
+    width: 100%;
+    height: auto !important;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 560px) {
+  /* About me now uses exactly the same card height, title position, type size,
+     shade and arrow placement as Vietnam, World and the remaining sections. */
+  .home-portfolio-grid .card-about {
+    grid-row: span 1 !important;
+    min-height: 330px;
+    height: 330px;
+    max-height: none;
+  }
+
+  .home-portfolio-grid .card-about img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 36%;
+  }
+
+  .home-portfolio-grid .card-about .index-shade {
+    background: linear-gradient(180deg, rgba(7,8,8,.03) 20%, rgba(7,8,8,.73) 100%);
+  }
+
+  .home-portfolio-grid .card-about .index-copy {
+    top: auto;
+    left: 20px;
+    right: 66px;
+    bottom: 20px;
+    z-index: 2;
+  }
+
+  .home-portfolio-grid .card-about .index-copy strong {
+    font-size: clamp(2.2rem, 7vw, 3.45rem);
+    line-height: .92;
+    text-shadow: none;
+  }
+
+  .home-portfolio-grid .card-about .index-arrow {
+    top: auto;
+    right: 18px;
+    bottom: 18px;
+    z-index: 2;
+  }
+
+  .home-portfolio-grid .card-docs img {
+    width: 100%;
+    height: 100%;
+    object-position: center 42%;
+  }
+}
