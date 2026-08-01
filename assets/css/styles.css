@@ -1371,3 +1371,66 @@ body[data-category="documentaries"] .category-masthead > img {
     object-position: center 42%;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Mobile category mastheads — keep every heading inside the viewport
+   -------------------------------------------------------------------------- */
+@media (max-width: 720px) {
+  body[data-category]:not([data-category="about"]) .category-masthead {
+    /* The cover remains responsive, while a small minimum height gives long
+       descriptions enough room without clipping the heading. */
+    aspect-ratio: auto;
+    min-height: clamp(500px, 132vw, 620px);
+    height: auto;
+  }
+
+  body[data-category]:not([data-category="about"]) .category-heading {
+    left: clamp(18px, 5.5vw, 24px);
+    right: clamp(18px, 5.5vw, 24px);
+    bottom: clamp(24px, 7vw, 34px);
+    width: auto;
+    max-width: none;
+  }
+
+  body[data-category]:not([data-category="about"]) .category-heading h1 {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 16px;
+    font-size: clamp(3.25rem, 16vw, 4.8rem);
+    line-height: .86;
+    letter-spacing: -.055em;
+    white-space: normal;
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+
+  body[data-category]:not([data-category="about"]) .category-heading p {
+    width: 100%;
+    max-width: 100%;
+    font-size: clamp(1.02rem, 4.6vw, 1.28rem);
+    line-height: 1.38;
+    overflow-wrap: anywhere;
+  }
+
+  /* Long category names need a slightly tighter display size so the complete
+     word remains visible rather than being cropped by the cover frame. */
+  body[data-category="documentaries"] .category-heading h1 {
+    font-size: clamp(2.9rem, 12.9vw, 3.65rem);
+    letter-spacing: -.06em;
+  }
+
+  body[data-category="languages"] .category-heading h1 {
+    font-size: clamp(3rem, 13.8vw, 3.9rem);
+    line-height: .9;
+  }
+}
+
+@media (max-width: 390px) {
+  body[data-category="documentaries"] .category-heading h1 {
+    font-size: clamp(2.65rem, 12.4vw, 3.25rem);
+  }
+
+  body[data-category="languages"] .category-heading h1 {
+    font-size: clamp(2.75rem, 13vw, 3.45rem);
+  }
+}
