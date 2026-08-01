@@ -1163,3 +1163,75 @@ body[data-category="about"] .editorial-gallery.about-gallery-grid img {
   }
 }
 
+
+/* --------------------------------------------------------------------------
+   Home index refinements — mobile About label and image focal points
+   -------------------------------------------------------------------------- */
+
+/* Desktop: crop a little more of the empty sky so the portrait feels centred
+   on Thuong's upper body. */
+@media (min-width: 821px) {
+  .home-portfolio-grid .card-about img {
+    object-position: center 36%;
+  }
+}
+
+/* The documentary cover contains a BBC News lock-up at the bottom of the
+   source frame. Slightly enlarging the image and anchoring it to the top keeps
+   both subjects visible while cropping that lock-up out of the card. */
+.home-portfolio-grid .card-docs img {
+  height: 120%;
+  object-position: center top;
+}
+
+.home-portfolio-grid .card-docs:hover img {
+  transform: scale(1.035);
+}
+
+@media (max-width: 560px) {
+  /* Keep the first card to one mobile viewport section and show its label at
+     the top, rather than making visitors scroll to the bottom of the portrait. */
+  .home-portfolio-grid .card-about {
+    grid-row: span 1 !important;
+    min-height: 430px;
+    height: min(70svh, 560px);
+    max-height: 560px;
+  }
+
+  .home-portfolio-grid .card-about img {
+    object-position: center 34%;
+  }
+
+  .home-portfolio-grid .card-about .index-shade {
+    background: linear-gradient(
+      180deg,
+      rgba(7, 8, 8, .72) 0%,
+      rgba(7, 8, 8, .18) 30%,
+      rgba(7, 8, 8, .08) 58%,
+      rgba(7, 8, 8, .32) 100%
+    );
+  }
+
+  .home-portfolio-grid .card-about .index-copy {
+    top: 20px;
+    bottom: auto;
+    z-index: 3;
+  }
+
+  .home-portfolio-grid .card-about .index-copy strong {
+    font-size: clamp(2.35rem, 11vw, 3.15rem);
+    line-height: .92;
+    text-shadow: 0 2px 18px rgba(0, 0, 0, .38);
+  }
+
+  .home-portfolio-grid .card-about .index-arrow {
+    top: 18px;
+    bottom: auto;
+    z-index: 3;
+  }
+
+  .home-portfolio-grid .card-docs img {
+    height: 120%;
+    object-position: center top;
+  }
+}
