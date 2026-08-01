@@ -239,6 +239,10 @@
   function buildAbout(section, root) {
     root.innerHTML = `
       <section class="about-profile-layout">
+        <div class="about-mobile-heading reveal" aria-hidden="true">
+          <h1>${section.title}</h1>
+        </div>
+
         <figure class="about-profile-image reveal">
           <img src="${section.cover}" alt="Portrait of Thuong Le">
         </figure>
