@@ -8,19 +8,20 @@ window.PORTFOLIO_DATA = {
     "scholarshipLabel": "Scholarship & Fellowship Portfolio",
     "statement": "Stories across borders.",
     "substatement": "Reporting Vietnam and Southeast Asia for global audiences through journalism, documentaries, and on-camera storytelling.",
-    "copyright": "© Thuong Le. All rights reserved."
+    "copyright": "© Thuong Le. All rights reserved.",
+    "bbcEmail": "thuong.le@bbc.co.uk"
   },
   "categories": {
     "about": {
       "title": "About me",
       "accent": "",
       "eyebrow": "Profile",
-      "intro": "Thuong Le - a broadcast journalist and multimedia storyteller with more than a decade of international experience",
+      "intro": "I'm Thuong Le, a broadcast journalist at the BBC World Service and a multimedia storyteller with more than a decade of international experience in journalism, media production, and strategic communications.",
       "cover": "assets/images/about-portrait.webp",
       "paragraphs": [
         "I am a journalist, presenter, producer, and video editor with over 10 years of international experience in journalism, media production, and strategic communications.",
-        "I cover Vietnam and Southeast Asia, focusing on the South China Sea, politics, the economy, defence, the Mekong, and stories about women and youth.",
-        "My work has taken me across the United Kingdom, Vietnam, Singapore, Australia, Japan, Thailand, Laos and beyond, where I have reported on stories, produced multimedia content, and collaborated with diverse teams and audiences.",
+        "I cover Vietnam and Southeast Asia, focusing on the South China Sea, politics, the economy, defence, the Mekong, and stories about women and youth. My reporting and multimedia content have reached millions of people across digital, broadcast, and social media platforms.",
+        "My work has taken me across the United Kingdom, Vietnam, Singapore, Australia, Japan, Thailand, Laos, and beyond, where I have reported on stories, produced multimedia content, and collaborated with diverse teams and audiences.",
         "In addition to my editorial career, I have worked as a Marketing Manager and in television media rights for multinational corporations across Southeast Asia.",
         "This combination of newsroom experience and business leadership allows me to bridge storytelling with strategy, creating content that informs, engages, and delivers impact.",
         "Links to my social media profiles are in the top-right corner of this page."

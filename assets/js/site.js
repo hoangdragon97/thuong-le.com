@@ -391,10 +391,30 @@
   function buildFooter() {
     const footer = $("[data-footer]");
     if (!footer) return;
-    if (document.body.dataset.page === "home") { footer.hidden = true; footer.innerHTML = ""; return; }
+
+    const bbcEmail = data.profile.bbcEmail || "thuong.le@bbc.co.uk";
+    const personalEmail = data.profile.email || "lethuong.ds@gmail.com";
+    const contactBanner = `
+      <div class="contact-footer-banner" aria-label="Contact Thuong Le">
+        <p class="contact-footer-message reveal">
+          Have a story idea or perspective? I'd love to hear from you:
+          <a href="mailto:${escapeHtml(bbcEmail)}">${escapeHtml(bbcEmail)}</a>
+          <span aria-hidden="true">or</span>
+          <a href="mailto:${escapeHtml(personalEmail)}">${escapeHtml(personalEmail)}</a>.
+        </p>
+      </div>
+    `;
+
+    if (document.body.dataset.page === "home") {
+      footer.hidden = true;
+      footer.className = "site-footer";
+      footer.innerHTML = "";
+      return;
+    }
+
     footer.hidden = false;
-    footer.classList.add("minimal-footer");
-    footer.innerHTML = `<div class="minimal-footer-shell"><a class="minimal-home-button" href="index.html">Back to home ${icon("arrow")}</a></div>`;
+    footer.className = "site-footer site-contact-footer minimal-footer";
+    footer.innerHTML = `${contactBanner}<div class="minimal-footer-shell"><a class="minimal-home-button" href="index.html">Back to home ${icon("arrow")}</a></div>`;
   }
 
   function buildFloatingPageNavigation() {
