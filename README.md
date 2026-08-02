@@ -1,18 +1,20 @@
-# Thuong Le — Scholarship & Fellowship Portfolio
+# Thuong Le — Journalism Portfolio
 
-Premium static journalism portfolio, ready for Vercel deployment.
+Static portfolio prepared for GitHub and Vercel deployment.
 
-## Local preview
+## Responsive system
 
-```bash
-python -m http.server 8000
-```
+- Tested for viewport widths: 320, 390, 768, 1366, 1920, 2560 and 3840 pixels.
+- One-column phone cards, two-column tablet layouts, three-column desktop article grids and four-column large-screen grids.
+- Fluid typography uses bounded `clamp()` values, so long headings stay inside the viewport.
+- The content canvas expands on large displays and stops at 2200px to remain readable on 2K, 4K and ultrawide screens.
+- Local WebP images include responsive 480px, 960px and 1600px variants where applicable.
+- Images below the fold use native lazy loading and asynchronous decoding.
+- Motion respects `prefers-reduced-motion`.
+- CSS and JavaScript are revalidated by Vercel to prevent stale responsive layouts.
 
-Open `http://localhost:8000`.
+## Deploy
 
-## About gallery
+Upload the complete source to the repository root and push to the production branch connected to Vercel.
 
-The About page uses a responsive editorial mosaic with pre-cropped WebP assets.
-
-## Thumbnail reliability
-World and Across Languages original thumbnails use the article Open Graph image first, followed by two independent page-image fallbacks and the section cover.
+Lighthouse results depend on network conditions and third-party article thumbnail services. The local layout, media loading, accessibility controls and cache settings are optimized for strong mobile performance.
