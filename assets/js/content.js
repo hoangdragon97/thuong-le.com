@@ -27,44 +27,16 @@ window.PORTFOLIO_DATA = {
       ],
       "gallery": [
         {
-          "image": "assets/images/aboutme-gallery-01.webp",
-          "alt": "Thuong Le conducting an interview with Buddhist leaders"
-        },
-        {
-          "image": "assets/images/aboutme-gallery-02.webp",
-          "alt": "Behind the scenes during an interview production"
-        },
-        {
-          "image": "assets/images/aboutme-gallery-03.webp",
-          "alt": "Thuong Le in a radio studio"
-        },
-        {
-          "image": "assets/images/aboutme-gallery-04.webp",
-          "alt": "Thuong Le at a professional event"
-        },
-        {
-          "image": "assets/images/aboutme-gallery-05.webp",
-          "alt": "Thuong Le at a media and entertainment event"
-        },
-        {
-          "image": "assets/images/aboutme-gallery-06.webp",
-          "alt": "Thuong Le interviewing at an exhibition"
-        },
-        {
-          "image": "assets/images/aboutme-gallery-07.webp",
-          "alt": "Thuong Le interviewing for BBC News Vietnamese"
-        },
-        {
-          "image": "assets/images/aboutme-gallery-08.webp",
-          "alt": "Thuong Le reporting on a Vietnamese community story"
-        },
-        {
           "image": "assets/images/aboutme-gallery-09.webp",
           "alt": "Thuong Le presenting for BBC World Service"
         },
         {
           "image": "assets/images/aboutme-gallery-10.webp",
           "alt": "Thuong Le on an Asia news programme"
+        },
+        {
+          "image": "assets/images/aboutme-gallery-04.webp",
+          "alt": "Thuong Le at a professional event"
         },
         {
           "image": "assets/images/aboutme-gallery-11.webp",
@@ -75,8 +47,36 @@ window.PORTFOLIO_DATA = {
           "alt": "Thuong Le presenting at a studio desk"
         },
         {
+          "image": "assets/images/aboutme-gallery-05.webp",
+          "alt": "Thuong Le at a media and entertainment event"
+        },
+        {
           "image": "assets/images/aboutme-gallery-13.webp",
           "alt": "Thuong Le conducting a home interview"
+        },
+        {
+          "image": "assets/images/aboutme-gallery-02.webp",
+          "alt": "Behind the scenes during an interview production"
+        },
+        {
+          "image": "assets/images/aboutme-gallery-01.webp",
+          "alt": "Thuong Le conducting an interview with Buddhist leaders"
+        },
+        {
+          "image": "assets/images/aboutme-gallery-08.webp",
+          "alt": "Thuong Le reporting on a Vietnamese community story"
+        },
+        {
+          "image": "assets/images/aboutme-gallery-03.webp",
+          "alt": "Thuong Le in a radio studio"
+        },
+        {
+          "image": "assets/images/aboutme-gallery-06.webp",
+          "alt": "Thuong Le interviewing at an exhibition"
+        },
+        {
+          "image": "assets/images/aboutme-gallery-07.webp",
+          "alt": "Thuong Le interviewing for BBC News Vietnamese"
         }
       ]
     },

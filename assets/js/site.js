@@ -20,7 +20,9 @@
     mail: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4z"/><path d="m4 7 8 6 8-6"/></svg>',
     menu: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>',
     close: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>',
-    external: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 5h5v5M19 5l-9 9"/><path d="M19 13v6H5V5h6"/></svg>'
+    external: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 5h5v5M19 5l-9 9"/><path d="M19 13v6H5V5h6"/></svg>',
+    up: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M6 11l6-6 6 6"/></svg>',
+    home: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 11.5 9-7.5 9 7.5"/><path d="M5 10.5V20h14v-9.5M9 20v-6h6v6"/></svg>'
   };
   const icon = name => icons[name] || "";
 
@@ -277,6 +279,22 @@
   }
 
   function buildAbout(section, root) {
+    const desktopColumns = {
+      "aboutme-gallery-09": 1,
+      "aboutme-gallery-12": 1,
+      "aboutme-gallery-01": 1,
+      "aboutme-gallery-07": 1,
+      "aboutme-gallery-10": 2,
+      "aboutme-gallery-05": 2,
+      "aboutme-gallery-08": 2,
+      "aboutme-gallery-04": 3,
+      "aboutme-gallery-13": 3,
+      "aboutme-gallery-03": 3,
+      "aboutme-gallery-11": 4,
+      "aboutme-gallery-02": 4,
+      "aboutme-gallery-06": 4
+    };
+
     root.innerHTML = `
       <section class="about-profile-layout">
         <div class="about-mobile-heading" aria-hidden="true"><h1>${escapeHtml(section.title)}</h1></div>
@@ -299,17 +317,46 @@
       <section class="about-gallery-section" aria-labelledby="about-gallery-title">
         <div class="about-gallery-heading"><h2 id="about-gallery-title">Reporting across formats</h2></div>
         <div class="editorial-gallery about-gallery-grid">
-          ${section.gallery.map((item, index) => `
-            <figure class="reveal gallery-item gallery-item-${index + 1}" style="--delay:${(index % 6) * 35}ms">
-              <img ${imageAttributes(item.image, {
-                alt: item.alt,
-                sizes: "(max-width: 559px) calc(100vw - 24px), (max-width: 767px) 50vw, (max-width: 1499px) 33vw, 25vw"
-              })}>
-            </figure>
-          `).join("")}
+          ${section.gallery.map((item, index) => {
+            const key = item.image.split("/").pop().replace(/\.webp$/i, "");
+            const column = desktopColumns[key] || "auto";
+            return `
+              <figure class="reveal gallery-item gallery-item-${index + 1}" style="--delay:${(index % 6) * 35}ms;--gallery-column:${column}">
+                <img ${imageAttributes(item.image, {
+                  alt: item.alt,
+                  sizes: "(max-width: 559px) calc(100vw - 24px), (max-width: 767px) 50vw, (max-width: 1099px) 33vw, 25vw"
+                })}>
+              </figure>
+            `;
+          }).join("")}
         </div>
       </section>
     `;
+  }
+
+  function setupAboutMasonry() {
+    const grid = $(".about-gallery-grid");
+    if (!grid) return;
+    const items = Array.from(grid.querySelectorAll(".gallery-item"));
+
+    const resizeAll = () => {
+      const style = getComputedStyle(grid);
+      const rowHeight = parseFloat(style.gridAutoRows) || 8;
+      const rowGap = parseFloat(style.rowGap) || 6;
+      items.forEach(item => { item.style.gridRowEnd = "auto"; });
+      items.forEach(item => {
+        const height = item.getBoundingClientRect().height;
+        const span = Math.max(1, Math.ceil((height + rowGap) / (rowHeight + rowGap)));
+        item.style.gridRowEnd = `span ${span}`;
+      });
+    };
+
+    grid.querySelectorAll("img").forEach(img => {
+      if (!img.complete) img.addEventListener("load", resizeAll, { once: true });
+    });
+    if ("ResizeObserver" in window) new ResizeObserver(resizeAll).observe(grid);
+    window.addEventListener("resize", resizeAll, { passive: true });
+    requestAnimationFrame(resizeAll);
   }
 
   function buildCategory() {
@@ -350,6 +397,25 @@
     footer.innerHTML = `<div class="minimal-footer-shell"><a class="minimal-home-button" href="index.html">Back to home ${icon("arrow")}</a></div>`;
   }
 
+  function buildFloatingPageNavigation() {
+    if (document.body.dataset.page === "home") return;
+
+    const navigation = document.createElement("nav");
+    navigation.className = "floating-page-nav";
+    navigation.setAttribute("aria-label", "Page shortcuts");
+    navigation.innerHTML = `
+      <button class="floating-page-action floating-page-top" type="button" aria-label="Back to top" title="Back to top">${icon("up")}</button>
+      <a class="floating-page-action floating-page-home" href="index.html" aria-label="Back to home" title="Back to home">${icon("home")}</a>
+    `;
+    document.body.appendChild(navigation);
+
+    const topButton = $(".floating-page-top", navigation);
+    topButton?.addEventListener("click", () => {
+      const reduceMotion = window.matchMedia?.("(prefers-reduced-motion: reduce)").matches;
+      window.scrollTo({ top: 0, left: 0, behavior: reduceMotion ? "auto" : "smooth" });
+    });
+  }
+
   function revealOnScroll() {
     const items = $$(".reveal");
     if (!("IntersectionObserver" in window)) { items.forEach(item => item.classList.add("is-visible")); return; }
@@ -365,6 +431,8 @@
   buildMenu();
   buildHome();
   buildCategory();
+  setupAboutMasonry();
   buildFooter();
+  buildFloatingPageNavigation();
   revealOnScroll();
 })();
