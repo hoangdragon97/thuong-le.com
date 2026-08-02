@@ -27,87 +27,55 @@ window.PORTFOLIO_DATA = {
       ],
       "gallery": [
         {
-          "image": "assets/images/about-gallery-01.webp",
-          "alt": "Thuong Le at BBC"
-        },
-        {
-          "image": "assets/images/about-gallery-02.webp",
-          "alt": "Thuong Le outside the BBC building"
-        },
-        {
-          "image": "assets/images/about-gallery-03.webp",
-          "alt": "Interview production setup"
-        },
-        {
-          "image": "assets/images/about-gallery-04.webp",
-          "alt": "Thuong Le reporting in the field"
-        },
-        {
-          "image": "assets/images/about-gallery-05.webp",
-          "alt": "Thuong Le interviewing at an event"
-        },
-        {
-          "image": "assets/images/about-gallery-06.webp",
-          "alt": "Thuong Le reporting in Sydney"
-        },
-        {
-          "image": "assets/images/about-drive-01.webp",
+          "image": "assets/images/aboutme-gallery-01.webp",
           "alt": "Thuong Le conducting an interview with Buddhist leaders"
         },
         {
-          "image": "assets/images/about-drive-02.webp",
+          "image": "assets/images/aboutme-gallery-02.webp",
           "alt": "Behind the scenes during an interview production"
         },
         {
-          "image": "assets/images/about-drive-03.webp",
+          "image": "assets/images/aboutme-gallery-03.webp",
           "alt": "Thuong Le in a radio studio"
         },
         {
-          "image": "assets/images/about-drive-04.webp",
+          "image": "assets/images/aboutme-gallery-04.webp",
           "alt": "Thuong Le at a professional event"
         },
         {
-          "image": "assets/images/about-drive-05.webp",
-          "alt": "Thuong Le interviewing at a media event"
+          "image": "assets/images/aboutme-gallery-05.webp",
+          "alt": "Thuong Le at a media and entertainment event"
         },
         {
-          "image": "assets/images/about-drive-06.webp",
-          "alt": "Thuong Le conducting an exhibition interview"
+          "image": "assets/images/aboutme-gallery-06.webp",
+          "alt": "Thuong Le interviewing at an exhibition"
         },
         {
-          "image": "assets/images/about-drive-07.webp",
-          "alt": "Thuong Le interviewing a guest for BBC News Vietnamese"
+          "image": "assets/images/aboutme-gallery-07.webp",
+          "alt": "Thuong Le interviewing for BBC News Vietnamese"
         },
         {
-          "image": "assets/images/about-drive-08.webp",
+          "image": "assets/images/aboutme-gallery-08.webp",
           "alt": "Thuong Le reporting on a Vietnamese community story"
         },
         {
-          "image": "assets/images/about-drive-09.webp",
+          "image": "assets/images/aboutme-gallery-09.webp",
           "alt": "Thuong Le presenting for BBC World Service"
         },
         {
-          "image": "assets/images/about-drive-10.webp",
-          "alt": "Thuong Le reporting on camera for BBC World Service"
+          "image": "assets/images/aboutme-gallery-10.webp",
+          "alt": "Thuong Le on an Asia news programme"
         },
         {
-          "image": "assets/images/about-drive-11.webp",
-          "alt": "Studio presentation behind the scenes"
+          "image": "assets/images/aboutme-gallery-11.webp",
+          "alt": "Behind the scenes in a television studio"
         },
         {
-          "image": "assets/images/about-drive-12.webp",
-          "alt": "Thuong Le presenting in a television studio"
-        },
-        {
-          "image": "assets/images/about-drive-13.webp",
-          "alt": "Television studio production setup"
-        },
-        {
-          "image": "assets/images/about-drive-14.webp",
+          "image": "assets/images/aboutme-gallery-12.webp",
           "alt": "Thuong Le presenting at a studio desk"
         },
         {
-          "image": "assets/images/about-drive-15.webp",
+          "image": "assets/images/aboutme-gallery-13.webp",
           "alt": "Thuong Le conducting a home interview"
         }
       ]
@@ -165,8 +133,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Flappy Bird and beyond: Vietnam's gaming industry",
           "url": "https://www.bbc.com/audio/play/p0gjx831",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/audio/play/p0gjx831"
+          "thumbnail": "assets/images/vietnam-flappy-bird.webp"
         },
         {
           "title": "Can Vietnam's VinFast Succeed in Thailand?",
