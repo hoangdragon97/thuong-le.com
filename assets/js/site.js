@@ -413,8 +413,8 @@
     }
 
     footer.hidden = false;
-    footer.className = "site-footer site-contact-footer minimal-footer";
-    footer.innerHTML = `${contactBanner}<div class="minimal-footer-shell"><a class="minimal-home-button" href="index.html">Back to home ${icon("arrow")}</a></div>`;
+    footer.className = "site-footer site-contact-footer";
+    footer.innerHTML = contactBanner;
   }
 
   function buildFloatingPageNavigation() {
