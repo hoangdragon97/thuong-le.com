@@ -28,56 +28,56 @@ window.PORTFOLIO_DATA = {
       ],
       "gallery": [
         {
-          "image": "assets/images/aboutme-gallery-09.webp",
-          "alt": "Thuong Le presenting for BBC World Service"
+          "image": "assets/images/thuong-le-bbc-world-service-video-report.webp",
+          "alt": "Thuong Le presenting a BBC World Service video report from a studio"
         },
         {
-          "image": "assets/images/aboutme-gallery-10.webp",
-          "alt": "Thuong Le on an Asia news programme"
+          "image": "assets/images/thuong-le-bbc-world-service-energy-report.webp",
+          "alt": "Thuong Le reporting on energy markets for BBC World Service"
         },
         {
-          "image": "assets/images/aboutme-gallery-04.webp",
-          "alt": "Thuong Le at a professional event"
+          "image": "assets/images/thuong-le-professional-media-event.webp",
+          "alt": "Thuong Le with a guest at a professional media event"
         },
         {
-          "image": "assets/images/aboutme-gallery-11.webp",
-          "alt": "Behind the scenes in a television studio"
+          "image": "assets/images/thuong-le-bbc-television-studio-production.webp",
+          "alt": "Behind the scenes of a BBC television studio production"
         },
         {
-          "image": "assets/images/aboutme-gallery-12.webp",
-          "alt": "Thuong Le presenting at a studio desk"
+          "image": "assets/images/thuong-le-bbc-studio-desk-presenter.webp",
+          "alt": "Thuong Le presenting from a television studio desk"
         },
         {
-          "image": "assets/images/aboutme-gallery-05.webp",
-          "alt": "Thuong Le at a media and entertainment event"
+          "image": "assets/images/thuong-le-entertainment-event-interview.webp",
+          "alt": "Thuong Le interviewing a guest at a media and entertainment event"
         },
         {
-          "image": "assets/images/aboutme-gallery-13.webp",
-          "alt": "Thuong Le conducting a home interview"
+          "image": "assets/images/thuong-le-home-interview.webp",
+          "alt": "Thuong Le conducting an interview in a guest's home"
         },
         {
-          "image": "assets/images/aboutme-gallery-02.webp",
-          "alt": "Behind the scenes during an interview production"
+          "image": "assets/images/thuong-le-buddhist-interview-production.webp",
+          "alt": "Camera crew filming Thuong Le interviewing Buddhist leaders"
         },
         {
-          "image": "assets/images/aboutme-gallery-01.webp",
-          "alt": "Thuong Le conducting an interview with Buddhist leaders"
+          "image": "assets/images/thuong-le-interviewing-buddhist-leader.webp",
+          "alt": "Thuong Le interviewing a Buddhist leader"
         },
         {
-          "image": "assets/images/aboutme-gallery-08.webp",
-          "alt": "Thuong Le reporting on a Vietnamese community story"
+          "image": "assets/images/thuong-le-vietnam-community-reporting.webp",
+          "alt": "Thuong Le reporting on a Vietnamese community story with a traditional food maker"
         },
         {
-          "image": "assets/images/aboutme-gallery-03.webp",
-          "alt": "Thuong Le in a radio studio"
+          "image": "assets/images/thuong-le-bbc-radio-studio.webp",
+          "alt": "Thuong Le in a BBC radio studio"
         },
         {
-          "image": "assets/images/aboutme-gallery-06.webp",
-          "alt": "Thuong Le interviewing at an exhibition"
+          "image": "assets/images/thuong-le-exhibition-interview.webp",
+          "alt": "Thuong Le interviewing a guest at an exhibition"
         },
         {
-          "image": "assets/images/aboutme-gallery-07.webp",
-          "alt": "Thuong Le interviewing for BBC News Vietnamese"
+          "image": "assets/images/thuong-le-bbc-news-vietnamese-interview.webp",
+          "alt": "Thuong Le interviewing a guest for BBC News Vietnamese"
         }
       ]
     },

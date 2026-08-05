@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://thuong-le.com/</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
-    <loc>https://thuong-le.com/about.html</loc>
+    <loc>https://thuong-le.com/about</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
-    <loc>https://thuong-le.com/vietnam.html</loc>
+    <loc>https://thuong-le.com/vietnam</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
-    <loc>https://thuong-le.com/world.html</loc>
+    <loc>https://thuong-le.com/world</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
-    <loc>https://thuong-le.com/on-camera.html</loc>
+    <loc>https://thuong-le.com/on-camera</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
-    <loc>https://thuong-le.com/documentaries.html</loc>
+    <loc>https://thuong-le.com/documentaries</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
-    <loc>https://thuong-le.com/languages.html</loc>
+    <loc>https://thuong-le.com/languages</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
 </urlset>
