@@ -10,7 +10,7 @@
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
   })[character]);
 
-  const assetVersion = "20260802-responsive";
+  const assetVersion = "20260804-alt-text";
   const versionedAsset = src => /^assets\//.test(src) ? `${src}?v=${assetVersion}` : src;
 
   const localImageManifest = {"assets/images/about-drive-01.webp":{"width":1900,"height":1425,"variants":[{"src":"assets/images/about-drive-01-480.webp","width":480},{"src":"assets/images/about-drive-01-960.webp","width":960},{"src":"assets/images/about-drive-01-1600.webp","width":1600},{"src":"assets/images/about-drive-01.webp","width":1900}]},"assets/images/about-drive-02.webp":{"width":960,"height":1280,"variants":[{"src":"assets/images/about-drive-02-480.webp","width":480},{"src":"assets/images/about-drive-02.webp","width":960}]},"assets/images/about-drive-03.webp":{"width":1900,"height":1424,"variants":[{"src":"assets/images/about-drive-03-480.webp","width":480},{"src":"assets/images/about-drive-03-960.webp","width":960},{"src":"assets/images/about-drive-03-1600.webp","width":1600},{"src":"assets/images/about-drive-03.webp","width":1900}]},"assets/images/about-drive-04.webp":{"width":1900,"height":1425,"variants":[{"src":"assets/images/about-drive-04-480.webp","width":480},{"src":"assets/images/about-drive-04-960.webp","width":960},{"src":"assets/images/about-drive-04-1600.webp","width":1600},{"src":"assets/images/about-drive-04.webp","width":1900}]},"assets/images/about-drive-05.webp":{"width":1425,"height":1900,"variants":[{"src":"assets/images/about-drive-05-480.webp","width":480},{"src":"assets/images/about-drive-05-960.webp","width":960},{"src":"assets/images/about-drive-05.webp","width":1425}]},"assets/images/about-drive-06.webp":{"width":1116,"height":623,"variants":[{"src":"assets/images/about-drive-06-480.webp","width":480},{"src":"assets/images/about-drive-06-960.webp","width":960},{"src":"assets/images/about-drive-06.webp","width":1116}]},"assets/images/about-drive-07.webp":{"width":1900,"height":1068,"variants":[{"src":"assets/images/about-drive-07-480.webp","width":480},{"src":"assets/images/about-drive-07-960.webp","width":960},{"src":"assets/images/about-drive-07-1600.webp","width":1600},{"src":"assets/images/about-drive-07.webp","width":1900}]},"assets/images/about-drive-08.webp":{"width":1900,"height":1074,"variants":[{"src":"assets/images/about-drive-08-480.webp","width":480},{"src":"assets/images/about-drive-08-960.webp","width":960},{"src":"assets/images/about-drive-08-1600.webp","width":1600},{"src":"assets/images/about-drive-08.webp","width":1900}]},"assets/images/about-drive-09.webp":{"width":1900,"height":1022,"variants":[{"src":"assets/images/about-drive-09-480.webp","width":480},{"src":"assets/images/about-drive-09-960.webp","width":960},{"src":"assets/images/about-drive-09-1600.webp","width":1600},{"src":"assets/images/about-drive-09.webp","width":1900}]},"assets/images/about-drive-10.webp":{"width":1386,"height":840,"variants":[{"src":"assets/images/about-drive-10-480.webp","width":480},{"src":"assets/images/about-drive-10-960.webp","width":960},{"src":"assets/images/about-drive-10.webp","width":1386}]},"assets/images/about-drive-11.webp":{"width":591,"height":1280,"variants":[{"src":"assets/images/about-drive-11-480.webp","width":480},{"src":"assets/images/about-drive-11.webp","width":591}]},"assets/images/about-drive-12.webp":{"width":960,"height":1280,"variants":[{"src":"assets/images/about-drive-12-480.webp","width":480},{"src":"assets/images/about-drive-12.webp","width":960}]},"assets/images/about-drive-13.webp":{"width":1280,"height":960,"variants":[{"src":"assets/images/about-drive-13-480.webp","width":480},{"src":"assets/images/about-drive-13-960.webp","width":960},{"src":"assets/images/about-drive-13.webp","width":1280}]},"assets/images/about-drive-14.webp":{"width":1280,"height":960,"variants":[{"src":"assets/images/about-drive-14-480.webp","width":480},{"src":"assets/images/about-drive-14-960.webp","width":960},{"src":"assets/images/about-drive-14.webp","width":1280}]},"assets/images/about-drive-15.webp":{"width":1280,"height":960,"variants":[{"src":"assets/images/about-drive-15-480.webp","width":480},{"src":"assets/images/about-drive-15-960.webp","width":960},{"src":"assets/images/about-drive-15.webp","width":1280}]},"assets/images/about-gallery-01.webp":{"width":1200,"height":1680,"variants":[{"src":"assets/images/about-gallery-01-480.webp","width":480},{"src":"assets/images/about-gallery-01-960.webp","width":960},{"src":"assets/images/about-gallery-01.webp","width":1200}]},"assets/images/about-gallery-02.webp":{"width":960,"height":1600,"variants":[{"src":"assets/images/about-gallery-02-480.webp","width":480},{"src":"assets/images/about-gallery-02.webp","width":960}]},"assets/images/about-gallery-03.webp":{"width":1280,"height":1600,"variants":[{"src":"assets/images/about-gallery-03-480.webp","width":480},{"src":"assets/images/about-gallery-03-960.webp","width":960},{"src":"assets/images/about-gallery-03.webp","width":1280}]},"assets/images/about-gallery-04.webp":{"width":2100,"height":900,"variants":[{"src":"assets/images/about-gallery-04-480.webp","width":480},{"src":"assets/images/about-gallery-04-960.webp","width":960},{"src":"assets/images/about-gallery-04-1600.webp","width":1600},{"src":"assets/images/about-gallery-04.webp","width":2100}]},"assets/images/about-gallery-05.webp":{"width":1400,"height":1400,"variants":[{"src":"assets/images/about-gallery-05-480.webp","width":480},{"src":"assets/images/about-gallery-05-960.webp","width":960},{"src":"assets/images/about-gallery-05.webp","width":1400}]},"assets/images/about-gallery-06.webp":{"width":2100,"height":1200,"variants":[{"src":"assets/images/about-gallery-06-480.webp","width":480},{"src":"assets/images/about-gallery-06-960.webp","width":960},{"src":"assets/images/about-gallery-06-1600.webp","width":1600},{"src":"assets/images/about-gallery-06.webp","width":2100}]},"assets/images/about-portrait.webp":{"width":1367,"height":2048,"variants":[{"src":"assets/images/about-portrait-480.webp","width":480},{"src":"assets/images/about-portrait-960.webp","width":960},{"src":"assets/images/about-portrait.webp","width":1367}]},"assets/images/avatar.webp":{"width":647,"height":647,"variants":[{"src":"assets/images/avatar-480.webp","width":480},{"src":"assets/images/avatar.webp","width":647}]},"assets/images/home-documentaries.webp":{"width":1024,"height":480,"variants":[{"src":"assets/images/home-documentaries-480.webp","width":480},{"src":"assets/images/home-documentaries-960.webp","width":960},{"src":"assets/images/home-documentaries.webp","width":1024}]},"assets/images/home-languages.webp":{"width":2047,"height":1365,"variants":[{"src":"assets/images/home-languages-480.webp","width":480},{"src":"assets/images/home-languages-960.webp","width":960},{"src":"assets/images/home-languages-1600.webp","width":1600},{"src":"assets/images/home-languages.webp","width":2047}]},"assets/images/home-on-camera.webp":{"width":1366,"height":768,"variants":[{"src":"assets/images/home-on-camera-480.webp","width":480},{"src":"assets/images/home-on-camera-960.webp","width":960},{"src":"assets/images/home-on-camera.webp","width":1366}]},"assets/images/home-vietnam.webp":{"width":2048,"height":1365,"variants":[{"src":"assets/images/home-vietnam-480.webp","width":480},{"src":"assets/images/home-vietnam-960.webp","width":960},{"src":"assets/images/home-vietnam-1600.webp","width":1600},{"src":"assets/images/home-vietnam.webp","width":2048}]},"assets/images/home-world.webp":{"width":2048,"height":1365,"variants":[{"src":"assets/images/home-world-480.webp","width":480},{"src":"assets/images/home-world-960.webp","width":960},{"src":"assets/images/home-world-1600.webp","width":1600},{"src":"assets/images/home-world.webp","width":2048}]},"assets/images/interview-event.webp":{"width":640,"height":480,"variants":[{"src":"assets/images/interview-event-480.webp","width":480},{"src":"assets/images/interview-event.webp","width":640}]},"assets/images/language-mundo-south-china-sea.webp":{"width":261,"height":217,"variants":[{"src":"assets/images/language-mundo-south-china-sea.webp","width":261}]},"assets/images/production-studio.webp":{"width":672,"height":896,"variants":[{"src":"assets/images/production-studio-480.webp","width":480},{"src":"assets/images/production-studio.webp","width":672}]},"assets/images/profile-bbc.webp":{"width":534,"height":800,"variants":[{"src":"assets/images/profile-bbc-480.webp","width":480},{"src":"assets/images/profile-bbc.webp","width":534}]},"assets/images/reporting-bbc-building.webp":{"width":480,"height":640,"variants":[{"src":"assets/images/reporting-bbc-building.webp","width":480}]},"assets/images/reporting-field.webp":{"width":665,"height":373,"variants":[{"src":"assets/images/reporting-field-480.webp","width":480},{"src":"assets/images/reporting-field.webp","width":665}]},"assets/images/reporting-sydney.webp":{"width":665,"height":376,"variants":[{"src":"assets/images/reporting-sydney-480.webp","width":480},{"src":"assets/images/reporting-sydney.webp","width":665}]},"assets/images/world-fire-horse.webp":{"width":282,"height":223,"variants":[{"src":"assets/images/world-fire-horse.webp","width":282}]},"assets/images/vietnam-flappy-bird.webp":{"width":1024,"height":683,"variants":[{"src":"assets/images/vietnam-flappy-bird-480.webp","width":480},{"src":"assets/images/vietnam-flappy-bird-960.webp","width":960},{"src":"assets/images/vietnam-flappy-bird.webp","width":1024}]},"assets/images/aboutme-gallery-01.webp":{"width":2048,"height":1536,"variants":[{"src":"assets/images/aboutme-gallery-01-480.webp","width":480},{"src":"assets/images/aboutme-gallery-01-960.webp","width":960},{"src":"assets/images/aboutme-gallery-01-1600.webp","width":1600},{"src":"assets/images/aboutme-gallery-01.webp","width":2048}]},"assets/images/aboutme-gallery-02.webp":{"width":960,"height":1280,"variants":[{"src":"assets/images/aboutme-gallery-02-480.webp","width":480},{"src":"assets/images/aboutme-gallery-02.webp","width":960}]},"assets/images/aboutme-gallery-03.webp":{"width":2576,"height":1931,"variants":[{"src":"assets/images/aboutme-gallery-03-480.webp","width":480},{"src":"assets/images/aboutme-gallery-03-960.webp","width":960},{"src":"assets/images/aboutme-gallery-03-1600.webp","width":1600},{"src":"assets/images/aboutme-gallery-03.webp","width":2576}]},"assets/images/aboutme-gallery-04.webp":{"width":4032,"height":3024,"variants":[{"src":"assets/images/aboutme-gallery-04-480.webp","width":480},{"src":"assets/images/aboutme-gallery-04-960.webp","width":960},{"src":"assets/images/aboutme-gallery-04-1600.webp","width":1600},{"src":"assets/images/aboutme-gallery-04.webp","width":4032}]},"assets/images/aboutme-gallery-05.webp":{"width":4284,"height":5712,"variants":[{"src":"assets/images/aboutme-gallery-05-480.webp","width":480},{"src":"assets/images/aboutme-gallery-05-960.webp","width":960},{"src":"assets/images/aboutme-gallery-05-1600.webp","width":1600},{"src":"assets/images/aboutme-gallery-05.webp","width":4284}]},"assets/images/aboutme-gallery-06.webp":{"width":1116,"height":623,"variants":[{"src":"assets/images/aboutme-gallery-06-480.webp","width":480},{"src":"assets/images/aboutme-gallery-06-960.webp","width":960},{"src":"assets/images/aboutme-gallery-06.webp","width":1116}]},"assets/images/aboutme-gallery-07.webp":{"width":2390,"height":1344,"variants":[{"src":"assets/images/aboutme-gallery-07-480.webp","width":480},{"src":"assets/images/aboutme-gallery-07-960.webp","width":960},{"src":"assets/images/aboutme-gallery-07-1600.webp","width":1600},{"src":"assets/images/aboutme-gallery-07.webp","width":2390}]},"assets/images/aboutme-gallery-08.webp":{"width":2382,"height":1346,"variants":[{"src":"assets/images/aboutme-gallery-08-480.webp","width":480},{"src":"assets/images/aboutme-gallery-08-960.webp","width":960},{"src":"assets/images/aboutme-gallery-08-1600.webp","width":1600},{"src":"assets/images/aboutme-gallery-08.webp","width":2382}]},"assets/images/aboutme-gallery-09.webp":{"width":2290,"height":1232,"variants":[{"src":"assets/images/aboutme-gallery-09-480.webp","width":480},{"src":"assets/images/aboutme-gallery-09-960.webp","width":960},{"src":"assets/images/aboutme-gallery-09-1600.webp","width":1600},{"src":"assets/images/aboutme-gallery-09.webp","width":2290}]},"assets/images/aboutme-gallery-10.webp":{"width":1386,"height":840,"variants":[{"src":"assets/images/aboutme-gallery-10-480.webp","width":480},{"src":"assets/images/aboutme-gallery-10-960.webp","width":960},{"src":"assets/images/aboutme-gallery-10.webp","width":1386}]},"assets/images/aboutme-gallery-11.webp":{"width":1280,"height":960,"variants":[{"src":"assets/images/aboutme-gallery-11-480.webp","width":480},{"src":"assets/images/aboutme-gallery-11-960.webp","width":960},{"src":"assets/images/aboutme-gallery-11.webp","width":1280}]},"assets/images/aboutme-gallery-12.webp":{"width":1280,"height":960,"variants":[{"src":"assets/images/aboutme-gallery-12-480.webp","width":480},{"src":"assets/images/aboutme-gallery-12-960.webp","width":960},{"src":"assets/images/aboutme-gallery-12.webp","width":1280}]},"assets/images/aboutme-gallery-13.webp":{"width":1280,"height":960,"variants":[{"src":"assets/images/aboutme-gallery-13-480.webp","width":480},{"src":"assets/images/aboutme-gallery-13-960.webp","width":960},{"src":"assets/images/aboutme-gallery-13.webp","width":1280}]}};
@@ -74,7 +74,7 @@
     header.innerHTML = `
       <div class="home-showcase-header-shell">
         <a class="home-showcase-brand" href="index.html" aria-label="${escapeHtml(profile.name)} home">
-          <span class="home-showcase-avatar"><img ${imageAttributes("assets/images/avatar.webp", { alt: `Portrait of ${profile.name}`, sizes: "44px", priority: true })}></span>
+          <span class="home-showcase-avatar"><img ${imageAttributes("assets/images/avatar.webp", { alt: `${profile.name}, broadcast journalist at BBC World Service`, sizes: "44px", priority: true })}></span>
           <strong>${escapeHtml(profile.name)}</strong>
         </a>
         <p class="home-showcase-role">Journalist <span>•</span> Presenter <span>•</span> Producer <span>•</span> Video Editor</p>
@@ -155,12 +155,48 @@
     const root = $("[data-home]");
     if (!root) return;
     const cards = [
-      { key: "about", title: "About me", image: "assets/images/about-portrait.webp", url: "about.html" },
-      { key: "vietnam", title: "Vietnam", image: "assets/images/home-vietnam.webp", url: "vietnam.html" },
-      { key: "world", title: "World", image: "assets/images/home-world.webp", url: "world.html" },
-      { key: "languages", title: "Across Languages", image: "assets/images/home-languages.webp", url: "languages.html" },
-      { key: "docs", title: "Documentaries", image: "assets/images/home-documentaries.webp", url: "documentaries.html" },
-      { key: "camera", title: "On Camera", image: "assets/images/home-on-camera.webp", url: "on-camera.html" }
+      {
+        key: "about",
+        title: "About me",
+        image: "assets/images/about-portrait.webp",
+        url: "about.html",
+        alt: "Thuong Le, broadcast journalist and multimedia storyteller"
+      },
+      {
+        key: "vietnam",
+        title: "Vietnam",
+        image: "assets/images/home-vietnam.webp",
+        url: "vietnam.html",
+        alt: "Vietnamese woman in a conical hat praying at a temple"
+      },
+      {
+        key: "world",
+        title: "World",
+        image: "assets/images/home-world.webp",
+        url: "world.html",
+        alt: "Digital globe representing international reporting"
+      },
+      {
+        key: "languages",
+        title: "Across Languages",
+        image: "assets/images/home-languages.webp",
+        url: "languages.html",
+        alt: "Hand selecting Translate among multiple world languages"
+      },
+      {
+        key: "docs",
+        title: "Documentaries",
+        image: "assets/images/home-documentaries.webp",
+        url: "documentaries.html",
+        alt: "Thuong Le interviewing two women for a documentary"
+      },
+      {
+        key: "camera",
+        title: "On Camera",
+        image: "assets/images/home-on-camera.webp",
+        url: "on-camera.html",
+        alt: "Thuong Le reporting, presenting and interviewing on camera"
+      }
     ];
 
     root.innerHTML = `
@@ -169,7 +205,7 @@
           ${cards.map((card, index) => `
             <a class="index-card card-${card.key}" href="${card.url}">
               <img ${imageAttributes(card.image, {
-                alt: card.title,
+                alt: card.alt,
                 sizes: "(max-width: 767px) calc(100vw - 24px), (max-width: 1099px) calc(50vw - 24px), 60vw",
                 priority: index === 0,
                 lazy: index !== 0
@@ -300,7 +336,7 @@
         <div class="about-mobile-heading" aria-hidden="true"><h1>${escapeHtml(section.title)}</h1></div>
         <figure class="about-profile-image">
           <img ${imageAttributes(section.cover, {
-            alt: "Portrait of Thuong Le",
+            alt: "Thuong Le, broadcast journalist at BBC World Service",
             sizes: "(max-width: 767px) calc(100vw - 24px), min(34vw, 670px)",
             priority: true
           })}>
@@ -369,10 +405,18 @@
     document.title = `${section.title} — ${data.profile.name}`;
     if (key === "about") { buildAbout(section, root); return; }
 
+    const coverAltText = {
+      vietnam: "Vietnamese woman in a conical hat praying at a temple",
+      world: "Digital globe representing Thuong Le's international reporting",
+      "on-camera": "Thuong Le reporting, presenting and interviewing on camera",
+      documentaries: "Thuong Le interviewing two women during documentary production",
+      languages: "Hand selecting Translate among multiple world languages"
+    };
+
     root.innerHTML = `
       <section class="category-masthead">
         <img ${imageAttributes(section.cover, {
-          alt: `${section.title} portfolio cover`,
+          alt: coverAltText[key] || `${section.title} reporting by Thuong Le`,
           sizes: "(max-width: 767px) calc(100vw - 24px), min(100vw - 48px, 2200px)",
           priority: true
         })}>
@@ -395,12 +439,12 @@
     const bbcEmail = data.profile.bbcEmail || "thuong.le@bbc.co.uk";
     const personalEmail = data.profile.email || "lethuong.ds@gmail.com";
     const contactBanner = `
-      <div class="contact-footer-banner" aria-label="Contact Thuong Le">
+      <div class="contact-footer-banner" aria-label="Contact Thuong Le" data-nosnippet>
         <p class="contact-footer-message reveal">
           Have a story idea or perspective? I'd love to hear from you:
-          <a href="mailto:${escapeHtml(bbcEmail)}">${escapeHtml(bbcEmail)}</a>
+          <a href="mailto:${escapeHtml(bbcEmail)}" aria-label="Email Thuong via BBC World Service">BBC email</a>
           <span aria-hidden="true">or</span>
-          <a href="mailto:${escapeHtml(personalEmail)}">${escapeHtml(personalEmail)}</a>.
+          <a href="mailto:${escapeHtml(personalEmail)}" aria-label="Email Thuong via personal address">personal email</a>.
         </p>
       </div>
     `;
