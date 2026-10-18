@@ -875,23 +875,17 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Korean: 중국의 '매력 공세'는 동남아를 재편하게 될까",
           "url": "https://www.bbc.com/korean/articles/c24qmvv6pvyo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/korean/articles/c24qmvv6pvyo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_korean/9c1a/live/b3a695e0-24cd-11f0-8f57-b7237f6a66e6.jpg"
         },
         {
           "title": "Thai: “เจ้าสาวเวียดนาม” ความเฟื่องฟูของธุรกิจ “จัดหารัก” ให้ชายสิงคโปร์ผู้ไร้คู่",
           "url": "https://www.bbc.com/thai/articles/cv29w73knxno",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/thai/articles/cv29w73knxno",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_thai/e42d/live/ba63b510-0f58-11ef-82e8-cd354766a224.png"
         },
         {
           "title": "Indonesian: Kopi Starbucks sulit laku di Vietnam dibanding di Indonesia, mengapa?",
           "url": "https://www.bbc.com/indonesia/majalah-66404421",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/indonesia/majalah-66404421",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_indonesia/395E/production/_130668641_gettyimages-862439442.jpg"
         },
         {
           "title": "Mundo: Toma lo que quieras mientras puedas: la feroz disputa por la soberanía en el mar de China Meridional",
@@ -901,93 +895,67 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Korean: 베트남이 4000억원 규모의 한국 K9 자주포를 수입하려는 이유",
           "url": "https://www.bbc.com/korean/articles/crm74wdvdwzo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/korean/articles/crm74wdvdwzo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_korean/e00a/live/09c0f790-da1e-11ef-a37f-eba91255dc3d.png"
         },
         {
           "title": "Burmese: တောင်တရုတ်ပင်လယ်ထဲ သဲဖို့ ကျွန်းဖော်ပြီး ပိုင်နက်ဦးနေကြလား",
           "url": "https://www.bbc.com/burmese/articles/cy52546w79qo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/burmese/articles/cy52546w79qo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_burmese/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
           "title": "Chinese: 越南南沙建島低調超車中國 南海造島競賽風雲再起？",
           "url": "https://www.bbc.com/zhongwen/articles/cdj20vkd9m3o/trad",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/cdj20vkd9m3o/trad",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/c7ad/live/02b31ad0-832b-11f0-a34f-318be3fb0481.jpg"
         },
         {
           "title": "Indonesian: Akankah 'serangan pesona' China mengubah peta Asia Tenggara dan bagaimana posisi Indonesia?",
           "url": "https://www.bbc.com/indonesia/articles/c9dj8g7541lo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/indonesia/articles/c9dj8g7541lo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_indonesia/f4f3/live/bfac6d80-25a7-11f0-a4b5-cf8d960fb818.jpg"
         },
         {
           "title": "Thai: เหตุใดตอนนี้ทางการเวียดนาม จึงเดินหน้าปราบตลาดสินค้าแบรนด์เนมปลอม",
           "url": "https://www.bbc.com/thai/articles/c5yzzpl3ee2o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/thai/articles/c5yzzpl3ee2o",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_thai/b0a6/live/d2d3d720-76b6-11f1-925a-557464d48d36.jpg"
         },
         {
           "title": "Thai: 'คว้าไว้เท่าที่ทำได้ในตอนนี้' จีนเป็นชาติเดียวหรือไม่ที่ถมทะเลสร้างเกาะเทียมในทะเลจีนใต้",
           "url": "https://www.bbc.com/thai/articles/cevprl7pw3ro",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/thai/articles/cevprl7pw3ro",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_thai/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
           "title": "Thai: \"ปฏิบัติการสร้างเสน่ห์\" ของจีนจะเปลี่ยนโฉมหน้าภูมิภาคเอเชียตะวันออกเฉียงใต้ได้หรือไม่ ?",
           "url": "https://www.bbc.com/thai/articles/cy0xjwlzr47o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/thai/articles/cy0xjwlzr47o",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_thai/9c1a/live/b3a695e0-24cd-11f0-8f57-b7237f6a66e6.jpg"
         },
         {
           "title": "Korean: '짝퉁 명품' 글로벌 거점...베트남 당국, 단속 강화한다",
           "url": "https://www.bbc.com/korean/articles/c4gyyzrd6n1o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/korean/articles/c4gyyzrd6n1o",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_korean/b0a6/live/d2d3d720-76b6-11f1-925a-557464d48d36.jpg"
         },
         {
           "title": "Korean: '청산가리로 6명 독살', 방콕 호텔 투숙객 사망사건 미스테리",
           "url": "https://www.bbc.com/korean/articles/c1dm78v2pkro",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/korean/articles/c1dm78v2pkro",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_korean/04d0/live/12936490-4642-11ef-b74c-bb483a802c97.png"
         },
         {
           "title": "Burmese: တရုတ်ရဲ့ \"ဆွဲဆောင်စည်းရုံးမှု ထိုးစစ်\"က အရှေ့တောင်အာရှကို အသွင်ပြောင်းလာနိုင်လား",
           "url": "https://www.bbc.com/burmese/articles/cly5q9z46ygo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/burmese/articles/cly5q9z46ygo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_burmese/d047/live/0be737f0-2807-11f0-a740-23c6f7407e23.jpg"
         },
         {
           "title": "Chinese: 美國壓力下 越南如何擺脫「假冒奢侈品全球樞紐」標籤",
           "url": "https://www.bbc.com/zhongwen/articles/c2lyyxyeqr8o/trad",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/c2lyyxyeqr8o/trad",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/b0a6/live/d2d3d720-76b6-11f1-925a-557464d48d36.jpg"
         },
         {
           "title": "Chinese: 先下手為強：南海島礁爭奪的新現實",
           "url": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
           "title": "Chinese: 南海爭端再起：菲律賓簽新法案與中國劃新基線，特朗普會繼續支持菲律賓嗎？",
           "url": "https://www.bbc.com/zhongwen/articles/cvg5kv0p4xlo/trad",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/cvg5kv0p4xlo/trad",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/5cc7/live/8826ba60-a180-11ef-b12b-1da819da85d5.png"
         },
         {
           "title": "Telugu: Meet the Walk for Peace Monks and Aloka, the Peace Dog",
