@@ -179,6 +179,12 @@ window.PORTFOLIO_DATA = {
           "thumbnail": "assets/images/vietnam-flappy-bird.webp"
         },
         {
+          "title": "Hundreds of Chinese Fishing Boats off Quang Ngai: What Does Beijing Want?",
+          "url": "https://www.bbc.com/vietnamese/articles/cx4gq0657rdqo",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cx4gq0657rdqo"
+        },
+        {
           "title": "Can Vietnam's VinFast Succeed in Thailand?",
           "url": "https://www.bbc.com/vietnamese/articles/cld40nyq7n6o",
           "thumbnailMode": "original",
@@ -297,6 +303,18 @@ window.PORTFOLIO_DATA = {
           "url": "https://www.bbc.com/vietnamese/articles/c3ezly85w42o",
           "thumbnailMode": "original",
           "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c3ezly85w42o"
+        },
+        {
+          "title": "Chinese Graduate Student Accused of Poisoning Vietnamese Colleague and Attempting to Flee",
+          "url": "https://www.bbc.com/vietnamese/articles/cq07317l4nj3o",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cq07317l4nj3o"
+        },
+        {
+          "title": "The Swiss Artist Who Has Lived in Vietnam for 30 Years and Become Mother to Hundreds of Children",
+          "url": "https://www.bbc.com/vietnamese/articles/c620ly2y8lq2o",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c620ly2y8lq2o"
         }
       ]
     },
@@ -405,6 +423,11 @@ window.PORTFOLIO_DATA = {
           "thumbnailMode": "original",
           "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cvgex9wxzd5o",
           "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "Bangkok's famous 50-year-old soup",
+          "url": "https://www.bbc.co.uk/programmes/w3ct8sr1",
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         }
       ]
     },
@@ -440,6 +463,18 @@ window.PORTFOLIO_DATA = {
           "url": "https://www.youtube.com/watch?v=mYTvUwJiFvU&t=1s",
           "thumbnail": "https://i.ytimg.com/vi/mYTvUwJiFvU/maxresdefault.jpg",
           "thumbnailFallback": "https://i.ytimg.com/vi/mYTvUwJiFvU/hqdefault.jpg"
+        },
+        {
+          "title": "Hundreds of Chinese Fishing Boats off Quang Ngai: What Does Beijing Want?",
+          "url": "https://www.youtube.com/watch?v=A9u18b8Yiqg&t=12s",
+          "thumbnail": "https://i.ytimg.com/vi/A9u18b8Yiqg/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/A9u18b8Yiqg/hqdefault.jpg"
+        },
+        {
+          "title": "China Says Vietnam Has “No Right” to Comment on Beijing’s Island-Building in the Paracel Islands",
+          "url": "https://www.facebook.com/watch/?v=2287718835336440",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.facebook.com/watch/?v=2287718835336440"
         },
         {
           "title": "How do you say 'Happy New Year'",
@@ -679,6 +714,54 @@ window.PORTFOLIO_DATA = {
           "url": "https://www.youtube.com/watch?v=HFdNgzpPUuk&t=1s",
           "thumbnail": "https://i.ytimg.com/vi/HFdNgzpPUuk/maxresdefault.jpg",
           "thumbnailFallback": "https://i.ytimg.com/vi/HFdNgzpPUuk/hqdefault.jpg"
+        },
+        {
+          "title": "Trump Rolls Out the Red Carpet for Xi: Trade Truce, AI, Lavish State Banquet — and What Else?",
+          "url": "https://www.youtube.com/watch?v=suC_MxmpayA&t=372s",
+          "thumbnail": "https://i.ytimg.com/vi/suC_MxmpayA/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/suC_MxmpayA/hqdefault.jpg"
+        },
+        {
+          "title": "Inside the restaurant serving 50-year-old beef broth",
+          "url": "https://www.youtube.com/watch?v=LXAfJ_gjTOo&t=27s",
+          "thumbnail": "https://i.ytimg.com/vi/LXAfJ_gjTOo/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/LXAfJ_gjTOo/hqdefault.jpg"
+        },
+        {
+          "title": "Why Your Memories of the 9/11 Terrorist Attacks May Be Wrong",
+          "url": "https://www.youtube.com/watch?v=r1EfkIrMOlo&t=24s",
+          "thumbnail": "https://i.ytimg.com/vi/r1EfkIrMOlo/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/r1EfkIrMOlo/hqdefault.jpg"
+        },
+        {
+          "title": "Gold Prices Hit Record Highs: What’s Behind the Swings?",
+          "url": "https://www.youtube.com/watch?v=RBSKQNS9GXs",
+          "thumbnail": "https://i.ytimg.com/vi/RBSKQNS9GXs/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/RBSKQNS9GXs/hqdefault.jpg"
+        },
+        {
+          "title": "How Rich Are Pham Nhat Vuong and Vietnam’s Other Billionaires?",
+          "url": "https://www.youtube.com/watch?v=WltgO7Gnfm0&t=21s",
+          "thumbnail": "https://i.ytimg.com/vi/WltgO7Gnfm0/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/WltgO7Gnfm0/hqdefault.jpg"
+        },
+        {
+          "title": "Which Countries Have Nuclear Weapons, and How Did They Get Them?",
+          "url": "https://www.youtube.com/watch?v=gLGg1tnzmLo&t=11s",
+          "thumbnail": "https://i.ytimg.com/vi/gLGg1tnzmLo/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/gLGg1tnzmLo/hqdefault.jpg"
+        },
+        {
+          "title": "Protests Across France: What’s Going On?",
+          "url": "https://www.youtube.com/watch?v=i7XG0fv-djU&t=33s",
+          "thumbnail": "https://i.ytimg.com/vi/i7XG0fv-djU/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/i7XG0fv-djU/hqdefault.jpg"
+        },
+        {
+          "title": "Chinese Graduate Student Accused of Poisoning Vietnamese Colleague and Attempting to Flee",
+          "url": "https://www.youtube.com/watch?v=6ldFtRd-rKw&t=45s",
+          "thumbnail": "https://i.ytimg.com/vi/6ldFtRd-rKw/maxresdefault.jpg",
+          "thumbnailFallback": "https://i.ytimg.com/vi/6ldFtRd-rKw/hqdefault.jpg"
         }
       ]
     },
@@ -783,6 +866,20 @@ window.PORTFOLIO_DATA = {
       "intro": "My work has been featured and shared in multiple languages, reaching diverse audiences across cultures and communities. Through storytelling, creativity, and a global perspective, I create work that resonates beyond borders.",
       "cover": "assets/images/home-languages.webp",
       "works": [
+        {
+          "title": "Chinese: 數百艘中國漁船出現在越南外海，北京想要什麼？",
+          "url": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "Chinese: 美国中国研究生涉嫌毒害越南同学：大学与受害者家属怎么说？",
+          "url": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/simp",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/simp",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
         {
           "title": "Korean: 중국의 '매력 공세'는 동남아를 재편하게 될까",
           "url": "https://www.bbc.com/korean/articles/c24qmvv6pvyo",
@@ -914,6 +1011,55 @@ window.PORTFOLIO_DATA = {
           "title": "Hindi: Meet the Walk for Peace Monks and Aloka, the Peace Dog",
           "url": "https://www.youtube.com/live/RdAOsowxRFk?si=SzbmKYhYj4S4DWyb&t=970",
           "thumbnail": "https://drive.google.com/file/d/1ll5Dh9zUNZgkpHgnhYykZ9NwQOxttkyv/view?usp=drive_link"
+        },
+        {
+          "title": "Indonesian: Bangkok's famous 50-year-old soup",
+          "url": "https://www.facebook.com/watch/?v=1383461863940004",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.facebook.com/watch/?v=1383461863940004",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "BBC News Afrique: Bangkok's famous 50-year-old soup",
+          "url": "https://www.facebook.com/watch/?v=2205860563671197",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.facebook.com/watch/?v=2205860563671197",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "Pashto: Bangkok's famous 50-year-old soup",
+          "url": "https://www.facebook.com/watch/?v=1117073047353854",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.facebook.com/watch/?v=1117073047353854",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "Romanian: Bangkok's famous 50-year-old soup",
+          "url": "https://www.instagram.com/reel/Ddyq5yRjwYz/",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.instagram.com/reel/Ddyq5yRjwYz/",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "English: BBC World Service: Bangkok's famous 50-year-old soup",
+          "url": "https://www.facebook.com/reel/1445909287390633",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.facebook.com/reel/1445909287390633",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "English: BBC Global Women: Bangkok's famous 50-year-old soup",
+          "url": "https://www.instagram.com/reel/DdtdqkUDHZq/",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.instagram.com/reel/DdtdqkUDHZq/",
+          "thumbnailStrategy": "original-with-fallbacks"
+        },
+        {
+          "title": "Persian: Bangkok's famous 50-year-old soup",
+          "url": "https://www.instagram.com/reel/DdtWkZSkSZu/?xtok=MWRhOGkxa3Bkc2ttbg==",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.instagram.com/reel/DdtWkZSkSZu/?xtok=MWRhOGkxa3Bkc2ttbg==",
+          "thumbnailStrategy": "original-with-fallbacks"
         }
       ]
     }
