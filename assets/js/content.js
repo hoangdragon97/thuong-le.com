@@ -181,8 +181,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Hundreds of Chinese Fishing Boats off Quang Ngai: What Does Beijing Want?",
           "url": "https://www.bbc.com/vietnamese/articles/cx4gq0657rdqo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cx4gq0657rdqo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/09a7/live/7bd33190-b267-11f1-a430-4d16ee157c41.png"
         },
         {
           "title": "Can Vietnam's VinFast Succeed in Thailand?",
@@ -307,14 +306,12 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Chinese Graduate Student Accused of Poisoning Vietnamese Colleague and Attempting to Flee",
           "url": "https://www.bbc.com/vietnamese/articles/cq07317l4nj3o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cq07317l4nj3o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/ad95/live/f6d581c0-c920-11f1-9a39-31b474234113.png"
         },
         {
           "title": "The Swiss Artist Who Has Lived in Vietnam for 30 Years and Become Mother to Hundreds of Children",
           "url": "https://www.bbc.com/vietnamese/articles/c620ly2y8lq2o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c620ly2y8lq2o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/ca0b/live/1aa866b0-b7df-11f1-b86f-f9f95031dc8c.jpg"
         }
       ]
     },
@@ -473,8 +470,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "China Says Vietnam Has “No Right” to Comment on Beijing’s Island-Building in the Paracel Islands",
           "url": "https://www.facebook.com/watch/?v=2287718835336440",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.facebook.com/watch/?v=2287718835336440"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/09a7/live/7bd33190-b267-11f1-a430-4d16ee157c41.png"
         },
         {
           "title": "How do you say 'Happy New Year'",
@@ -869,16 +865,12 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Chinese: 數百艘中國漁船出現在越南外海，北京想要什麼？",
           "url": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/09a7/live/7bd33190-b267-11f1-a430-4d16ee157c41.png"
         },
         {
           "title": "Chinese: 美国中国研究生涉嫌毒害越南同学：大学与受害者家属怎么说？",
           "url": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/simp",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/simp",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/ad95/live/f6d581c0-c920-11f1-9a39-31b474234113.png"
         },
         {
           "title": "Korean: 중국의 '매력 공세'는 동남아를 재편하게 될까",
@@ -1015,51 +1007,37 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Indonesian: Bangkok's famous 50-year-old soup",
           "url": "https://www.facebook.com/watch/?v=1383461863940004",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.facebook.com/watch/?v=1383461863940004",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         },
         {
           "title": "BBC News Afrique: Bangkok's famous 50-year-old soup",
           "url": "https://www.facebook.com/watch/?v=2205860563671197",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.facebook.com/watch/?v=2205860563671197",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         },
         {
           "title": "Pashto: Bangkok's famous 50-year-old soup",
           "url": "https://www.facebook.com/watch/?v=1117073047353854",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.facebook.com/watch/?v=1117073047353854",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         },
         {
           "title": "Romanian: Bangkok's famous 50-year-old soup",
           "url": "https://www.instagram.com/reel/Ddyq5yRjwYz/",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.instagram.com/reel/Ddyq5yRjwYz/",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         },
         {
           "title": "English: BBC World Service: Bangkok's famous 50-year-old soup",
           "url": "https://www.facebook.com/reel/1445909287390633",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.facebook.com/reel/1445909287390633",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         },
         {
           "title": "English: BBC Global Women: Bangkok's famous 50-year-old soup",
           "url": "https://www.instagram.com/reel/DdtdqkUDHZq/",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.instagram.com/reel/DdtdqkUDHZq/",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         },
         {
           "title": "Persian: Bangkok's famous 50-year-old soup",
           "url": "https://www.instagram.com/reel/DdtWkZSkSZu/?xtok=MWRhOGkxa3Bkc2ttbg==",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.instagram.com/reel/DdtWkZSkSZu/?xtok=MWRhOGkxa3Bkc2ttbg==",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://drive.google.com/file/d/19z6NNIrloPoUnPMzvDRuiVgYIhwAJBbq/view?usp=sharing"
         }
       ]
     }
