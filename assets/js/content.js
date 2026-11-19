@@ -314,9 +314,9 @@ window.PORTFOLIO_DATA = {
         },
         {
           "title": "Philippines wins first Eurovision Song Contest Asia",
-          "url": "https://www.bbc.com/news/articles/cqrlgnx9dx6o",
+          "url": "https://www.bbc.com/news/articles/cqrlgnx9dx6eo",
           "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/news/articles/cqrlgnx9dx6o"
+          "thumbnailSource": "https://www.bbc.com/news/articles/cqrlgnx9dx6eo"
         },
         {
           "title": "Year of the Fire Horse welcomed by millions from Beijing to Bangkok",
