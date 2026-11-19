@@ -131,14 +131,12 @@ window.PORTFOLIO_DATA = {
         {
           "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
           "url": "https://www.bbc.com/news/articles/cdx7zzywz7wo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/news/articles/cdx7zzywz7wo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/b0a6/live/d2d3d720-76b6-11f1-925a-557464d48d36.jpg"
         },
         {
           "title": "Starbucks Vietnam: Why the US chain cannot crack a coffee-loving nation",
           "url": "https://www.bbc.com/news/world-asia-66167222",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/news/world-asia-66167222"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/13A34/production/_130663408_gettyimages-862439442.jpg"
         },
         {
           "title": "Made in Vietnam: Why its homegrown fashion is having a moment",
@@ -148,8 +146,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Vietnam's Communist Party congress meets to pick new leaders",
           "url": "https://www.bbc.com/news/articles/c93v9e0xdd9o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/news/articles/c93v9e0xdd9o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/b368/live/79e25c90-f2d1-11f0-80cd-e77eaadcaecf.jpg"
         },
         {
           "title": "'The Bomb Lady' Duong Nguyet Anh: From Vietnamese Boat Refugee to Pentagon 'Queen'",
@@ -164,14 +161,12 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
           "url": "https://www.bbc.com/news/articles/ckgwkmn1rzxo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/news/articles/ckgwkmn1rzxo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/0a3a/live/41441670-325b-11f1-bdf9-bf5479a63eec.jpg"
         },
         {
           "title": "Vietnam's famous Train Street in Hanoi to be shut",
           "url": "https://www.bbc.co.uk/programmes/p0d0t74q",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.co.uk/programmes/p0d0t74q"
+          "thumbnail": "https://ichef.bbci.co.uk/images/ic/1024x576/p0d0thzs.jpg"
         },
         {
           "title": "Flappy Bird and beyond: Vietnam's gaming industry",
@@ -186,8 +181,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Can Vietnam's VinFast Succeed in Thailand?",
           "url": "https://www.bbc.com/vietnamese/articles/cld40nyq7n6o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cld40nyq7n6o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/aa35/live/933d1bc0-f2fc-11ee-af4b-c92c8bdf5fdf.jpg"
         },
         {
           "title": "Vietnam's Ministry of Defence vs Ministry of Public Security: Who Holds More Political Power?",
@@ -198,110 +192,92 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Is Vietnam Shifting to NATO Weapons to Reduce Its Dependence on Russia?",
           "url": "https://www.bbc.com/vietnamese/articles/c2xx7j38z0xo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c2xx7j38z0xo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/23a3/live/aad990c0-1a47-11ef-a13a-0b8c563da930.jpg"
         },
         {
           "title": "Why Are More Vietnamese Women Choosing Not to Marry or Have Children?",
           "url": "https://www.bbc.com/vietnamese/articles/cql3zg9gq1qo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cql3zg9gq1qo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/5b5c/live/ff016e20-614b-11ef-b530-ab85493fe5fe.jpg"
         },
         {
           "title": "Vietnam’s gaming industry takes off 10 years after Flappy Bird",
           "url": "https://www.bbc.com/vietnamese/articles/c2e891pp0v6o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c2e891pp0v6o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/06f0/live/47b5fc40-64f8-11ee-9a88-934797a4fdd9.png"
         },
         {
           "title": "How Powerful Is Vietnam in the Asia-Pacific?",
           "url": "https://www.bbc.com/vietnamese/articles/c1jd205n7plo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c1jd205n7plo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/2b4b/live/6cfdc0c0-87be-11ef-8936-1185f9e7d044.png"
         },
         {
           "title": "Will Trump's Tariffs Threaten Vietnam's 8% Growth Target?",
           "url": "https://www.bbc.com/vietnamese/articles/cgkgxj6l31yo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cgkgxj6l31yo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/b130/live/42c13f10-111d-11f0-ac9f-c37d6fd89579.png"
         },
         {
           "title": "Can Vietnam's Bamboo Diplomacy Survive the US–China Trade War?",
           "url": "https://www.bbc.com/vietnamese/articles/cd7v2gy5veqo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cd7v2gy5veqo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/0a8f/live/71dd21e0-1aac-11f0-8a1e-3ff815141b98.png"
         },
         {
           "title": "What Happened at Từ Dũ Hospital on 30 April 1975? Dr Ngọc Phượng Remembers",
           "url": "https://www.bbc.com/vietnamese/articles/c5ygznn6dnzo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c5ygznn6dnzo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/ad2c/live/0eeb2730-24e8-11f0-b26b-ab62c890638b.jpg"
         },
         {
           "title": "Could Hanoi Buy the F-16? Why Is This Vietnam War-Era Fighter Still in Demand?",
           "url": "https://www.bbc.com/vietnamese/articles/c8d1mr6yrnpo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c8d1mr6yrnpo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/ef2f/live/d76b7960-2f1c-11f0-89f2-07cd0cffa794.jpg"
         },
         {
           "title": "Vietnam Becomes a BRICS Partner: Do the Opportunities Outweigh the Risks?",
           "url": "https://www.bbc.com/vietnamese/articles/cx2gp555p49o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cx2gp555p49o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/beab/live/094a2650-50c1-11f0-86d5-3b52b53af158.png"
         },
         {
           "title": "The K-pop Phenomenon: Why Blackpink and BTS Dominate Among Young Vietnamese",
           "url": "https://www.bbc.com/vietnamese/articles/cg6r3z5lvgro",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cg6r3z5lvgro"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/8391/live/6cf9eef0-917a-11ed-972c-c73c5e7c80ab.jpg"
         },
         {
           "title": "Vietnam's US Trade Challenge: Can To Lam Deliver?",
           "url": "https://www.bbc.com/vietnamese/articles/cgrzg4qx7jyo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cgrzg4qx7jyo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/0c43/live/ced3d120-0d57-11f1-9972-d3f265c101c6.png"
         },
         {
           "title": "What Was To Lam's Role in Trump's Tariff Agreement with Vietnam?",
           "url": "https://www.bbc.com/vietnamese/articles/cwyre7rx4rro",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cwyre7rx4rro"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/0e85/live/049e01f0-5899-11f0-960d-e9f1088a89fe.png"
         },
         {
           "title": "How the Trump–To Lam Deal Could Affect China's Role in Southeast Asia",
           "url": "https://www.bbc.com/vietnamese/articles/cvgex9wxzd5o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cvgex9wxzd5o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/bbdc/live/a236b0f0-5d77-11f0-960d-e9f1088a89fe.jpg"
         },
         {
           "title": "Vietnam's Potential F-16 Purchase: Escaping Russia or Leveraging Tariff Negotiations with the US?",
           "url": "https://www.bbc.com/vietnamese/articles/cg712vngmggo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cg712vngmggo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/2c40/live/1efd53f0-3497-11f0-96c3-cf669419a2b0.png"
         },
         {
           "title": "What Vietnam's Homegrown Weapons Reveal About Its Defence Ambitions",
           "url": "https://www.bbc.com/vietnamese/articles/ce35326k6v5o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/ce35326k6v5o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/c075/live/7b62f190-87f3-11f0-b391-6936825093bd.jpg"
         },
         {
           "title": "Antelope Reef: Is China Building the Largest Artificial Island in the South China Sea to Separate Vietnam from the Paracel Islands?",
           "url": "https://www.bbc.com/vietnamese/articles/c9d31zdzdwwo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c9d31zdzdwwo"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/7eea/live/c5071280-4455-11f1-bd52-e755d604ece4.png"
         },
         {
           "title": "Vietnam and Taiwan: What Are the Stakes of Its 'One China' Position?",
           "url": "https://www.bbc.com/vietnamese/articles/c5y9y7qvlv9o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c5y9y7qvlv9o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/b7ea/live/5a9a0a20-421f-11f1-ac78-2112837ce2aa.png"
         },
         {
           "title": "Vietnam's Island-Building Push: What Does It Mean for the South China Sea?",
           "url": "https://www.bbc.com/vietnamese/articles/c3ezly85w42o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c3ezly85w42o"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/8476/live/9b99bd00-85a4-11f0-84c8-99de564f0440.png"
         },
         {
           "title": "Chinese Graduate Student Accused of Poisoning Vietnamese Colleague and Attempting to Flee",
@@ -323,14 +299,24 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Grab what you can while you can: The new reality in the South China Sea",
           "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/news/articles/cy823n3ln29o",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
           "title": "South East Asia scrambles for oil in wake of Iran war - Asia Specific podcast, BBC World Service",
           "url": "https://youtu.be/grGcBaLSoQE?si=2K4Tt-6ZggmsKLon&t=228",
           "thumbnail": "https://drive.google.com/file/d/16SeQs4Hdz9rg2qKIHhAhkSgVrxV_kSTF/view?usp=drive_link"
+        },
+        {
+          "title": "Live: Philippines crowned first ever Eurovision Asia winner",
+          "url": "https://www.bbc.com/news/live/cmwy04xnzzgzt",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.bbc.com/news/live/cmwy04xnzzgzt"
+        },
+        {
+          "title": "Philippines wins first Eurovision Song Contest Asia",
+          "url": "https://www.bbc.com/news/articles/cqrlgnx9dx6o",
+          "thumbnailMode": "original",
+          "thumbnailSource": "https://www.bbc.com/news/articles/cqrlgnx9dx6o"
         },
         {
           "title": "Year of the Fire Horse welcomed by millions from Beijing to Bangkok",
@@ -341,9 +327,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Cyanide found in blood of Bangkok hotel victims",
           "url": "https://www.bbc.com/news/articles/c3g64ljwp2go",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/news/articles/c3g64ljwp2go",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/5be4/live/4f7379d0-4413-11ef-a173-650f2ea14a44.jpg"
         },
         {
           "title": "How Asia is adapting to less oil from the Middle East",
@@ -353,9 +337,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "The AI ghosts haunting TikTok",
           "url": "https://www.bbc.com/audio/play/w3ct5d93",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/audio/play/w3ct5d93",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/images/ic/1024x576/p0gb8l5y.jpg"
         },
         {
           "title": "Thailand takes racing to a whole new level - buffaloes included",
@@ -376,37 +358,27 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Why Thai Drivers Rarely Honk Their Horns?",
           "url": "https://www.facebook.com/watch/?v=2097766057225609",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.facebook.com/watch/?v=2097766057225609",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "assets/images/world-thai-drivers-honk.jpg"
         },
         {
           "title": "Why Is China More Aggressive Towards the Philippines Than Vietnam Over Island-Building?",
           "url": "https://www.bbc.com/vietnamese/articles/c3ejekl78l4o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c3ejekl78l4o",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/6b56/live/994f9e90-71c6-11ef-8c1a-df523ba43a9a.png"
         },
         {
           "title": "South China Sea: Is the Philippines' ‘decisive’ strategy or Vietnam's ‘cautious’ approach more effective?",
           "url": "https://www.bbc.com/vietnamese/articles/cpqzjv34lzvo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cpqzjv34lzvo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/54ac/live/c352eab0-7286-11ef-a291-f78b72a582ba.jpg"
         },
         {
           "title": "Vietnam vs Thailand: Which Economy Could Become Asia's Next Tiger?",
           "url": "https://www.bbc.com/vietnamese/articles/c30mj5edvndo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c30mj5edvndo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/96bb/live/a5754c30-ff27-11ef-b50e-9d086302645f.png"
         },
         {
           "title": "What Do China and Cambodia's Expanding Military Drills Mean for Vietnam?",
           "url": "https://www.bbc.com/vietnamese/articles/c1w3e21273xo",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/c1w3e21273xo",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/ba85/live/7b1e2200-3220-11f0-8519-3b5a01ebe413.jpg"
         },
         {
           "title": "Why Was Prime Minister Paetongtarn Shinawatra Removed from Office?",
@@ -417,9 +389,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "After the Trump–To Lam Deal: How Might China Respond in Southeast Asia?",
           "url": "https://www.bbc.com/vietnamese/articles/cvgex9wxzd5o",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.com/vietnamese/articles/cvgex9wxzd5o",
-          "thumbnailStrategy": "original-with-fallbacks"
+          "thumbnail": "https://ichef.bbci.co.uk/news/1200/branded_vietnamese/bbdc/live/a236b0f0-5d77-11f0-960d-e9f1088a89fe.jpg"
         },
         {
           "title": "Bangkok's famous 50-year-old soup",
@@ -446,8 +416,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Can Vietnam build its own fashion identity?",
           "url": "https://www.instagram.com/reel/DKe50wCIDZy/",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.instagram.com/reel/DKe50wCIDZy/"
+          "thumbnail": "https://drive.google.com/file/d/1d43FCz1JFhLTe2Z2K3Zxpxcto8jjyXjn/view?usp=drive_link"
         },
         {
           "title": "How the United States became a country",
@@ -769,8 +738,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "The Fifth Floor: Vietnam's matchmakers",
           "url": "https://www.bbc.co.uk/programmes/p0jfzd3l",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.bbc.co.uk/programmes/p0jfzd3l"
+          "thumbnail": "https://ichef.bbci.co.uk/images/ic/1024x576/p0hqg7fh.jpg"
         },
         {
           "title": "Vietnamese Brides Matchmaking in Singapore: A dream or a disillusion?",
@@ -786,8 +754,7 @@ window.PORTFOLIO_DATA = {
         {
           "title": "Turning Hoian banhmi into a business in Japan",
           "url": "https://www.facebook.com/BBCnewsVietnamese/videos/1384634279048016/?vh=e&fs=e&mibextid=wwXIfr&rdid=UgwEs2THWoVHc5qD#",
-          "thumbnailMode": "original",
-          "thumbnailSource": "https://www.facebook.com/BBCnewsVietnamese/videos/1384634279048016/?vh=e&fs=e&mibextid=wwXIfr&rdid=UgwEs2THWoVHc5qD#"
+          "thumbnail": "assets/images/documentaries-hoian-banhmi.jpg"
         },
         {
           "title": "Meet a 61-year-old Vietnamese woman driving a tuk-tuk in Thailand",
